@@ -62,11 +62,11 @@ Journalists are empowered to keep sources private, lawyers to work in confidence
 
 | **Organization** | **Support Type** | **Vendor** | **Services** | **Status** | **Dates** |
 | --- | --- | --- | --- | --- | --- |
-| Open Tech Fund | Services | Ura Creative | UX Audit<br>Visual Design<br>Research Planning | ✅&nbsp;Successful | March 2023 |
-| Open Tech Fund | Services | A11y Lab | Accessibility Audit | ✅&nbsp;Successful | April 2023 |
-| StartSmall, LLC | Financial | Project-Specific | Pending | Jan 2023 |
-| Internews | General Support | Project-Specific | Pending | May 2023 |
-| OTF | Services | Red Team Lab | Security Audit | ✅&nbsp;Complete | Dec 2021 |
+| [Open Tech Fund](https://opentech.fund) | Services | Ura Creative | UX Audit<br>Visual Design<br>Research Planning | ✅&nbsp;Successful | March 2023 |
+| [Open Tech Fund](https://opentech.fund) | Services | A11y Lab | Accessibility Audit | ✅&nbsp;Successful | April 2023 |
+| [StartSmall, LLC](https://startsmall.llc) | Financial | Project-Specific | Pending | Jan 2023 |
+| [Internews](https://internews.org) | General Support | Project-Specific | Pending | May 2023 |
+| [Open Tech Fund](https://opentech.fund) | Services | Red Team Lab | Security Audit | ✅&nbsp;Complete | Dec 2021 |
 
 ### **Related Work**
 
