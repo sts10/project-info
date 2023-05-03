@@ -1,17 +1,12 @@
-##
-# **Hush Line Project Info**
+# **🤫 Hush Line Project Info**
 
-| **Name:** Hush Line | **Websites:**
-[https://hushline.app](https://hushline.app/)
-[https://try.hushline.app](https://try.hushline.app/) | **Created By:** [Science & Design](https://scidsg.org/) |
+|  |  |  |
 | --- | --- | --- |
-| **Software type:** Open Source | **Year started:** 2023 | **Contributor Locations:** US, EU, APAC |
-| **License:** Public Domain | **Team Size:** 3 | **Contributor Type:** Volunteer |
-| **Git Repository:** [Link](https://github.com/scidsg/hush-line) | **Donations:**
-[Link](https://opencollective.com/scidsg/contribute/hush-line-support-55786) | **Research:**
-[Link](https://cryptpad.fr/form/#/2/form/view/aznAzzpG6Fh3K1Dq0JjslCK-NmSugmfLTP7ej+SqRl0/) |
-| **Social Content:** [Link](https://docs.google.com/spreadsheets/d/1XVRLtIabsoK6syTikEU6pNrpv9PYCSV4Pta9WRl15CM/edit#gid=0) | **Design:**
-[Link](https://www.figma.com/file/f2KCnJCooSQa3C3vy051Bc/Hush-Line---Collaborate?node-id=1%3A238&t=q78TDDi48CPY3xjN-1) | **Design Content:** [Link](https://docs.google.com/spreadsheets/d/1SLfWoYwQQDNbczTBgUR6ewWDzlay5ql-RFJnslrJHKI/edit) |
+| **Name:**<br>Hush Line | **Websites:**<br>[https://hushline.app](https://hushline.app/)<br>[https://try.hushline.app](https://try.hushline.app/) | **Created By:**<br>[Science & Design](https://scidsg.org/) |
+| **Software type:**<br>Open Source | **Year started:**<br>2023 | **Contributor Locations:**<br>US, EU, APAC |
+| **License:**<br>Public Domain | **Team Size:**<br>3 | **Contributor Type:**<br>Volunteer |
+| **Git Repository:**<br>[Link](https://github.com/scidsg/hush-line) | **Donations:**<br>[Link](https://opencollective.com/scidsg/contribute/hush-line-support-55786) | **Research:**<br>[Link](https://cryptpad.fr/form/#/2/form/view/aznAzzpG6Fh3K1Dq0JjslCK-NmSugmfLTP7ej+SqRl0/) |
+| **Social Content:**<br>[Link](https://docs.google.com/spreadsheets/d/1XVRLtIabsoK6syTikEU6pNrpv9PYCSV4Pta9WRl15CM/edit#gid=0) | **Design:**<br>[Link](https://www.figma.com/file/f2KCnJCooSQa3C3vy051Bc/Hush-Line---Collaborate?node-id=1%3A238&t=q78TDDi48CPY3xjN-1) | **Design Content:**<br>[Link](https://docs.google.com/spreadsheets/d/1SLfWoYwQQDNbczTBgUR6ewWDzlay5ql-RFJnslrJHKI/edit) |
 
 ## Info
 
@@ -19,12 +14,9 @@ Hush Line is a self-hosted secure, anonymous tip line and suggestion box designe
 
 ## Users
 
--
-#### Journalists and newsrooms can use Hush Line to give the public a safe way to leave a confidential tip.
--
-#### Employers and board rooms can use Hush Line to build trust by allowing colleagues to leave suggestions or report concerns anonymously.
--
-#### Educators and school staff can use Hush Line to host a safe way for students to share information with someone they trust.
+- Journalists and newsrooms can use Hush Line to give the public a safe way to leave a confidential tip.
+- Employers and board rooms can use Hush Line to build trust by allowing colleagues to leave suggestions or report concerns anonymously.
+- Educators and school staff can use Hush Line to host a safe way for students to share information with someone they trust.
 
 ## Use Cases
 
@@ -70,15 +62,5 @@ The app installs with a simple wizard configuring Nginx, Tor, automatically rene
 
 | **Organization** | **Support Type** | **Vendor** | **Services** | **Status** | **Dates** |
 | --- | --- | --- | --- | --- | --- |
-| StartSmall, LLC | Financial |
- | Project-Specific |
- |
- |
+| StartSmall, LLC | Financial | Project-Specific | 
 | OTF | Services | Red Team Lab | Security Audit | Pending | April 2023 |
-|
- |
- |
- |
- |
- |
- |
