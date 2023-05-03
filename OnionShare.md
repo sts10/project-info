@@ -15,10 +15,10 @@ OnionShare is an open-source application for secure, anonymous file sharing, web
 
 OnionShare already has a large community of active users. In a recent two-week period, the Windows version received 7,833 downloads, and the macOS version 1,490 downloads. The Linux package manager Snapcraft reports 3,275 weekly active users. We don't have metrics for the Linux Flatpak version. OnionShare is built-in to several privacy-focused Linux distributions such as:
 
-- QubesOS - Qubes OS is a reasonably secure operating system.
-- Tails - Tails is a portable operating system that protects against surveillance and censorship.
-- Whonix - Whonix is software that can anonymize everything you do online.
-- Parrot OS - Parrot OS is an operating system for developers and security specialists.
+- **QubesOS** - Qubes OS is a reasonably secure operating system.
+- **Tails** - Tails is a portable operating system that protects against surveillance and censorship.
+- **Whonix** - Whonix is software that can anonymize everything you do online.
+- **Parrot OS** - Parrot OS is an operating system for developers and security specialists.
 
 ## Users
 
@@ -97,14 +97,14 @@ Journalists are empowered to keep sources private, lawyers to work in confidence
 
 ## Apps and Properties
 
-MacOS: [https://onionshare.org/dist/2.6/OnionShare-2.6.dmg](https://onionshare.org/dist/2.6/OnionShare-2.6.dmg)
- Windows: [https://onionshare.org/dist/2.6/OnionShare-win64-2.6.msi](https://onionshare.org/dist/2.6/OnionShare-win64-2.6.msi)
- Linux: https://docs.onionshare.org/2.6/en/install.html#install-in-linux
- iOS: [https://apps.apple.com/us/app/onionshare/id1601890129](https://apps.apple.com/us/app/onionshare/id1601890129)
- Android: https://play.google.com/store/apps/details?id=org.onionshare.android
- Public website: [https://onionshare.org](https://onionshare.org/)
- Documentation: [https://docs.onionshare.org](https://docs.onionshare.org/)/
+**MacOS:** [https://onionshare.org/dist/2.6/OnionShare-2.6.dmg](https://onionshare.org/dist/2.6/OnionShare-2.6.dmg)<br>
+**Windows:** [https://onionshare.org/dist/2.6/OnionShare-win64-2.6.msi](https://onionshare.org/dist/2.6/OnionShare-win64-2.6.msi)<br>
+**Linux:** https://docs.onionshare.org/2.6/en/install.html#install-in-linux<br>
+**iOS:** [https://apps.apple.com/us/app/onionshare/id1601890129](https://apps.apple.com/us/app/onionshare/id1601890129)<br>
+**Android:** https://play.google.com/store/apps/details?id=org.onionshare.android<br>
+**Public website:** [https://onionshare.org](https://onionshare.org/)<br>
+**Documentation:** [https://docs.onionshare.org](https://docs.onionshare.org/)/<br>
 
 ## Organizational Sponsor
 
-Science & Design is a non-profit focused on building free and open-source software serving public interest causes including press and internet freedom, activism, LGBTQ+ rights, and accessibility technology. We help non-profits and open-source projects build public good software by partnering to help improve their usability, accessibility, security, and engineering practices. Our tools use censorship circumvention and encryption technologies to keep the most at-risk users safe from repressive regimes who suppress digital content.
+[Science & Design](https://scidsg.org) is a non-profit focused on building free and open-source software serving public interest causes including press and internet freedom, activism, LGBTQ+ rights, and accessibility technology. We help non-profits and open-source projects build public good software by partnering to help improve their usability, accessibility, security, and engineering practices. Our tools use censorship circumvention and encryption technologies to keep the most at-risk users safe from repressive regimes who suppress digital content.
