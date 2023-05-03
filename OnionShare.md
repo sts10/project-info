@@ -6,10 +6,10 @@ OnionShare is an open-source application for secure, anonymous file sharing, web
 
 |  |  |  |
 | --- | --- | --- |
-| **Name:**<br>OnionShare | **License:**<br>GPLv3 | **Contributor Type:**<br>Volunteer |
-| **Website:**<br>[https://onionshare.org](https://onionshare.org/) | **Year started:**<br>2014 | **Contributor Locations:**<br>US, EU, APAC |
-| **Git Repository:**<br>[https://github.com/onionshare](https://github.com/onionshare) | **Created By:**<br>Micah Lee | **Team Size:**<br>5 |
-| **Software type:**<br>Open Source | **Price:**<br>Free | **Fiscal Sponsor:**<br>[Science & Design](https://scidsg.org/) |
+| **Name:** OnionShare | **License:** GPLv3 | **Contributor Type:** Volunteer |
+| **Website:** [https://onionshare.org](https://onionshare.org/) | **Year started:** 2014 | **Contributor Locations:** US, EU, APAC |
+| **Git Repository:** [https://github.com/onionshare](https://github.com/onionshare) | **Created By:** Micah Lee | **Team Size:** 5 |
+| **Software type:** Open Source | **Price:** Free | **Fiscal Sponsor:** [Science & Design](https://scidsg.org/) |
 
 ## Usage
 
@@ -62,14 +62,11 @@ Journalists are empowered to keep sources private, lawyers to work in confidence
 
 | **Organization** | **Support Type** | **Vendor** | **Services** | **Status** | **Dates** |
 | --- | --- | --- | --- | --- | --- |
-| Open Tech Fund | Services | Ura Creative | UX Audit Visual Design
- Research Planning | ✅ Successful | March 2023 |
-| Open Tech Fund | Services | A11y Lab | Accessibility Audit | ✅ Successful | April 2023 |
-| StartSmall, LLC | Financial |
- | Project-Specific | Pending | Jan 2023 |
-| Internews | General Support |
- | Project-Specific | Pending | May 2023 |
-| OTF | Services | Red Team Lab | Security Audit | ✅ Complete | Dec 2021 |
+| Open Tech Fund | Services | Ura Creative | UX Audit<br>Visual Design<br>Research Planning | ✅&nbsp;Successful | March 2023 |
+| Open Tech Fund | Services | A11y Lab | Accessibility Audit | ✅&nbsp;Successful | April 2023 |
+| StartSmall, LLC | Financial | Project-Specific | Pending | Jan 2023 |
+| Internews | General Support | Project-Specific | Pending | May 2023 |
+| OTF | Services | Red Team Lab | Security Audit | ✅&nbsp;Complete | Dec 2021 |
 
 ### **Related Work**
 
