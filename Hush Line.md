@@ -1,5 +1,9 @@
 # **🤫 Hush Line Project Info**
 
+## Info
+
+Hush Line is a self-hosted secure, anonymous tip line and suggestion box designed to protect user privacy and message confidentiality. It uses PGP encryption, Tor, onion binding, HTTPS, and SMTP to ensure safe and reliable communication for journalists, employers, and educators. Hush Line is crucial in areas with internet censorship, providing users with a free and open-source platform to share sensitive info without fear.
+
 |  |  |  |
 | --- | --- | --- |
 | **Name:**<br>Hush Line | **Websites:**<br>[https://hushline.app](https://hushline.app/)<br>[https://try.hushline.app](https://try.hushline.app/) | **Created By:**<br>[Science & Design](https://scidsg.org/) |
@@ -7,10 +11,6 @@
 | **License:**<br>Public Domain | **Team Size:**<br>3 | **Contributor Type:**<br>Volunteer |
 | **Git Repository:**<br>[Link](https://github.com/scidsg/hush-line) | **Donations:**<br>[Link](https://opencollective.com/scidsg/contribute/hush-line-support-55786) | **Research:**<br>[Link](https://cryptpad.fr/form/#/2/form/view/aznAzzpG6Fh3K1Dq0JjslCK-NmSugmfLTP7ej+SqRl0/) |
 | **Social Content:**<br>[Link](https://docs.google.com/spreadsheets/d/1XVRLtIabsoK6syTikEU6pNrpv9PYCSV4Pta9WRl15CM/edit#gid=0) | **Design:**<br>[Link](https://www.figma.com/file/f2KCnJCooSQa3C3vy051Bc/Hush-Line---Collaborate?node-id=1%3A238&t=q78TDDi48CPY3xjN-1) | **Design Content:**<br>[Link](https://docs.google.com/spreadsheets/d/1SLfWoYwQQDNbczTBgUR6ewWDzlay5ql-RFJnslrJHKI/edit) |
-
-## Info
-
-Hush Line is a self-hosted secure, anonymous tip line and suggestion box designed to protect user privacy and message confidentiality. It uses PGP encryption, Tor, onion binding, HTTPS, and SMTP to ensure safe and reliable communication for journalists, employers, and educators. Hush Line is crucial in areas with internet censorship, providing users with a free and open-source platform to share sensitive info without fear.
 
 ## Users
 
