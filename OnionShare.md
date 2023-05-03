@@ -97,13 +97,13 @@ Journalists are empowered to keep sources private, lawyers to work in confidence
 
 ## Apps and Properties
 
-**MacOS:** [https://onionshare.org/dist/2.6/OnionShare-2.6.dmg](https://onionshare.org/dist/2.6/OnionShare-2.6.dmg)<br>
-**Windows:** [https://onionshare.org/dist/2.6/OnionShare-win64-2.6.msi](https://onionshare.org/dist/2.6/OnionShare-win64-2.6.msi)<br>
-**Linux:** https://docs.onionshare.org/2.6/en/install.html#install-in-linux<br>
-**iOS:** [https://apps.apple.com/us/app/onionshare/id1601890129](https://apps.apple.com/us/app/onionshare/id1601890129)<br>
-**Android:** https://play.google.com/store/apps/details?id=org.onionshare.android<br>
-**Public website:** [https://onionshare.org](https://onionshare.org/)<br>
-**Documentation:** [https://docs.onionshare.org](https://docs.onionshare.org/)/<br>
+* **MacOS:** [https://onionshare.org/dist/2.6/OnionShare-2.6.dmg](https://onionshare.org/dist/2.6/OnionShare-2.6.dmg)<br>
+* **Windows:** [https://onionshare.org/dist/2.6/OnionShare-win64-2.6.msi](https://onionshare.org/dist/2.6/OnionShare-win64-2.6.msi)<br>
+* **Linux:** https://docs.onionshare.org/2.6/en/install.html#install-in-linux<br>
+* **iOS:** [https://apps.apple.com/us/app/onionshare/id1601890129](https://apps.apple.com/us/app/onionshare/id1601890129)<br>
+* **Android:** https://play.google.com/store/apps/details?id=org.onionshare.android<br>
+* **Public website:** [https://onionshare.org](https://onionshare.org/)<br>
+* **Documentation:** [https://docs.onionshare.org](https://docs.onionshare.org/)/<br>
 
 ## Organizational Sponsor
 
