@@ -22,8 +22,9 @@ OnionShare already has a large community of active users. In a recent two-week p
 
 ## Users
 
-| Journalists | Sources | Researchers |
+|  |  |  |
 | --- | --- | --- |
+| Journalists | Sources | Researchers |
 | Students | Activists | General Public |
 
 ## Use Cases
