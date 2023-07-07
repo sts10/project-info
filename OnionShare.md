@@ -19,10 +19,12 @@ OnionShare is a cross-platform tool facilitating safe peer-to-peer file sharing,
 | --- | --- | --- |
 | --- | Admin | admin@scidsg.org |
 | Ashley | Research Lead | ashley@scidsg.org |
+| Ben | iOS Engineer | ben@scidsg.org |
 | Glenn | Design Lead | glenn@scidsg.org |
 | Micah | Eng Lead | micah@scidsg.org |
 | Mig | Engineer | mig@scidsg.org |
 | Saptak | Engineer | saptak@scidsg.org |
+| Torsten | Android Engineer | torsten@scidsg.org |
 
 ## Usage
 
