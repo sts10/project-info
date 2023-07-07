@@ -1,10 +1,9 @@
-# 🧅 OnionShare Project Info
+# OnionShare Project Info
 
 ## Links
 [OnionShare Planning](https://github.com/scidsg/onionshare-planning/tree/main)
 
 ## Info
-
 OnionShare is a cross-platform tool facilitating safe peer-to-peer file sharing, website hosting, and chatting, optimized for people in areas that experiences internet censorship by utilizing the Tor Network for anonymity. It is integrated into security-focused operating systems like Qubes OS, Tails, Whonix, and Parrot OS, providing users with comprehensive private online communication and information exchange tools. The app is free and open-source, localized into 12 languages and the documentation into eight, and available on MacOS, Linux, Windows, Android, and iOS. 
 
 |  |  |  |
@@ -27,7 +26,6 @@ OnionShare is a cross-platform tool facilitating safe peer-to-peer file sharing,
 | Torsten | Android Engineer | torsten@scidsg.org |
 
 ## Usage
-
 OnionShare already has a large community of active users. In a recent two-week period, the Windows version received 7,833 downloads, and the macOS version 1,490 downloads. The Linux package manager Snapcraft reports 3,275 weekly active users. We don't have metrics for the Linux Flatpak version. OnionShare is built-in to several privacy-focused Linux distributions such as:
 
 - **QubesOS** - Qubes OS is a reasonably secure operating system.
@@ -36,14 +34,12 @@ OnionShare already has a large community of active users. In a recent two-week p
 - **Parrot OS** - Parrot OS is an operating system for developers and security specialists.
 
 ## Users
-
 |  |  |  |
 | --- | --- | --- |
 | Journalists | Sources | Researchers |
 | Students | Activists | General Public |
 
 ## Use Cases
-
 - As a source, I need a **safe way to send files to a journalist** without revealing any information about myself, so I can share important information about governmental abuse with fear of reprisal.
 - As a journalist, I need to **provide sources with a trustworthy way to send information** , so they have confidence that their identity will remain private.
 - As a journalist, I need a **private way to chat with sources** when collaborating on a story, so we can have a reliable channel for communication, while preserving their privacy.
@@ -51,12 +47,10 @@ OnionShare already has a large community of active users. In a recent two-week p
 - As a user in a censorship & surveillance prevalent area, I need a safe way to **share sensitive documents** with others.
 
 ## Locations
-
 - Global
 - Areas where censorship is prevalent, including Iran, China, Russia, and Belarus
 
 ## Problems we're solving
-
 Internet censorship is a growing threat around the world. 67% of people online live in countries where "criticism of the government, military, or ruling family is subject to censorship." [1] Longitudinal data from OONI shows the problem is growing in China, Iran, and Russia. [2] While motivations for this behavior vary, the NY Times reports that for Russia, the goal is to "gain more leverage over Western internet companies in addition to other strong-arm tactics and legal intimidation." [3] In China, people are tracked and sometimes arrested for questioning narratives from the State. An individual within China compiled this recent list (https://docs.google.com/spreadsheets/d/1CQBeBpP2-A45lw-zr6mneDuPtSBNWg\_8KqgXpWMLcbo/edit#gid=0) of nearly 2,000 recent incidents of punishment from the government, providing relevant links to official news reports, public verdicts, and police notes. [4]
 
 In Iran, for example, common sites and services like BBC News, YouTube, Facebook, Twitter, Signal, Netflix, and GitLab are blocked. [5] Blocks like this don't only impact consumption but also utility. It prevents people from collaborating online or hosting web content for fear of State persecution. Any cloud-based service becomes a risk.
@@ -74,22 +68,19 @@ Journalists are empowered to keep sources private, lawyers to work in confidence
 5. https://en.wikipedia.org/wiki/Internet\_censorship\_in\_Iran
 
 ## Grant History
-
 | **Organization** | **Support Type** | **Vendor** | **Services** | **Status** | **Dates** |
 | --- | --- | --- | --- | --- | --- |
-| [Open Tech Fund](https://opentech.fund) | Services | Ura Creative | UX Audit<br>Visual Design<br>Research Planning | ✅&nbsp;Successful | March 2023 |
-| [Open Tech Fund](https://opentech.fund) | Services | A11y Lab | Accessibility Audit | ✅&nbsp;Successful | April 2023 |
+| [Open Tech Fund](https://opentech.fund) | Services | Ura Creative | UX Audit<br>Visual Design<br>Research Planning | ✅&nbsp;Awarded | March 2023 |
+| [Open Tech Fund](https://opentech.fund) | Services | A11y Lab | Accessibility Audit | ✅&nbsp;Awarded | April 2023 |
 | [StartSmall, LLC](https://startsmall.llc) | Financial | Project-Specific | Pending | Jan 2023 |
-| [Internews](https://internews.org) | General Support | Project-Specific | Pending | May 2023 |
-| [Open Tech Fund](https://opentech.fund) | Services | Red Team Lab | Security Audit | ✅&nbsp;Complete | Dec 2021 |
+| [Internews](https://internews.org) | General Support | Project-Specific | ✅&nbsp;Awarded | May 2023 |
+| [Open Tech Fund](https://opentech.fund) | Services | Red Team Lab | Security Audit | ✅&nbsp;Awarded | Dec 2021 |
 
 ### **Related Work**
-
 - [OnionShare Security Audit](https://github.com/onionshare/onionshare/blob/main/security/2021%20Penetration%20Test%20Report.pdf)
 - [https://micahflee.com/2022/01/onionshare-25-released/](https://micahflee.com/2022/01/onionshare-25-released/)
 
 ## In The Wild
-
 "Please email zeverson@forbes.com or reach out securely and anonymously[via OnionShare on the Tor browser](http://fo6ub4ivr7lcyftagfs3lu6l4zsxs3hbfnfddtsa3bu74wzjbykvvead.onion/)."
  -[https://www.forbes.com/sites/zacheverson/article/tracking-trump-arundown-of-all-the-lawsuits-and-investigations-involving-the-former-president/?sh=52823ef61f74](https://www.forbes.com/sites/zacheverson/article/tracking-trump-arundown-of-all-the-lawsuits-and-investigations-involving-the-former-president/?sh=52823ef61f74)
 
