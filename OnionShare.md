@@ -12,8 +12,9 @@ OnionShare is an open-source application for secure, anonymous file sharing, web
 | **Software type:** Open Source | **Price:** Free | **Fiscal Sponsor:** [Science & Design](https://scidsg.org/) |
 
 ## Team
-|  |  |  |
 | Name | Role | Contact |
+| --- | --- | --- |
+| Admin | --- | admin@scidsg.org |
 | Ashley | Research Lead | ashley@scidsg.org |
 | Glenn | Design Lead | glenn@scidsg.org |
 | Micah | Eng Lead | micah@scidsg.org |
