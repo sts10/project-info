@@ -72,8 +72,8 @@ Journalists are empowered to keep sources private, lawyers to work in confidence
 | --- | --- | --- | --- | --- | --- |
 | [Open Tech Fund](https://opentech.fund) | Services | Ura Creative | UX Audit<br>Visual Design<br>Research Planning | ✅&nbsp;Awarded | March 2023 |
 | [Open Tech Fund](https://opentech.fund) | Services | A11y Lab | Accessibility Audit | ✅&nbsp;Awarded | April 2023 |
-| [StartSmall, LLC](https://startsmall.llc) | Financial | Project-Specific | Pending | Jan 2023 |
-| [Internews](https://internews.org) | General Support | Project-Specific | ✅&nbsp;Awarded | May 2023 |
+| [StartSmall, LLC](https://startsmall.llc) | Financial | Project-Specific | - | Pending | Jan 2023 |
+| [Internews](https://internews.org) | General Support | Project-Specific | - | ✅&nbsp;Awarded | May 2023 |
 | [Open Tech Fund](https://opentech.fund) | Services | Red Team Lab | Security Audit | ✅&nbsp;Awarded | Dec 2021 |
 
 ### **Related Work**
