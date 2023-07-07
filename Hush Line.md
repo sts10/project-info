@@ -1,5 +1,8 @@
 # **🤫 Hush Line Project Info**
 
+## Links
+[OnionShare Planning](https://github.com/scidsg/onionshare-planning/tree/main)
+
 ## Info
 
 Hush Line is a self-hosted secure, anonymous tip line and suggestion box designed to protect user privacy and message confidentiality. It uses PGP encryption, Tor, onion binding, HTTPS, and SMTP to ensure safe and reliable communication for journalists, employers, and educators. Hush Line is crucial in areas with internet censorship, providing users with a free and open-source platform to share sensitive info without fear.
