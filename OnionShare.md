@@ -2,7 +2,7 @@
 
 ## Info
 
-OnionShare is an open-source application for secure, anonymous file sharing, website hosting, and chatting using the Tor network. Catering to whistleblowers, journalists, activists, and those in censorship-heavy locations, OnionShare offers a user-friendly interface with features such as secure file sharing without middlemen, anonymous file receiving, on-demand OnionService for hosting static websites, and ephemeral chat rooms for off-the-record discussions. In addition, onionShare is integrated into security-focused operating systems like Qubes OS, Tails, Whonix, and Parrot OS, providing users with a comprehensive suite of private online communication and information exchange tools. The app has been localized into 12 languages, and the documentation into eight.
+OnionShare is a cross-platform tool facilitating safe peer-to-peer file sharing, website hosting, and chatting, optimized for people in areas that experiences internet censorship by utilizing the Tor Network for anonymity. It is integrated into security-focused operating systems like Qubes OS, Tails, Whonix, and Parrot OS, providing users with comprehensive private online communication and information exchange tools. The app is free and open-source, localized into 12 languages and the documentation into eight, and available on MacOS, Linux, Windows, Android, and iOS. 
 
 |  |  |  |
 | --- | --- | --- |
