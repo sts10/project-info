@@ -1,5 +1,8 @@
 # 🧅 OnionShare Project Info
 
+## Links
+[OnionShare Planning](https://github.com/scidsg/onionshare-planning/tree/main)
+
 ## Info
 
 OnionShare is a cross-platform tool facilitating safe peer-to-peer file sharing, website hosting, and chatting, optimized for people in areas that experiences internet censorship by utilizing the Tor Network for anonymity. It is integrated into security-focused operating systems like Qubes OS, Tails, Whonix, and Parrot OS, providing users with comprehensive private online communication and information exchange tools. The app is free and open-source, localized into 12 languages and the documentation into eight, and available on MacOS, Linux, Windows, Android, and iOS. 
