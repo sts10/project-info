@@ -11,6 +11,15 @@ OnionShare is an open-source application for secure, anonymous file sharing, web
 | **Git Repository:** [https://github.com/onionshare](https://github.com/onionshare) | **Created By:** Micah Lee | **Team Size:** 5 |
 | **Software type:** Open Source | **Price:** Free | **Fiscal Sponsor:** [Science & Design](https://scidsg.org/) |
 
+## Team
+|  |  |  |
+| Name | Role | Contact |
+| Ashley | Research Lead | ashley@scidsg.org |
+| Glenn | Design Lead | glenn@scidsg.org |
+| Micah | Eng Lead | micah@scidsg.org |
+| Mig | Engineer | mig@scidsg.org |
+| Saptak | Engineer | saptak@scidsg.org |
+
 ## Usage
 
 OnionShare already has a large community of active users. In a recent two-week period, the Windows version received 7,833 downloads, and the macOS version 1,490 downloads. The Linux package manager Snapcraft reports 3,275 weekly active users. We don't have metrics for the Linux Flatpak version. OnionShare is built-in to several privacy-focused Linux distributions such as:
