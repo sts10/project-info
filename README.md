@@ -1,11 +1,11 @@
 # Project Info
 
-## 🤫 Hush Line
+## Hush Line
 - [Project Info](https://github.com/scidsg/project-info/blob/main/Hush%20Line.md)
 - [App Repository](https://github.com/scidsg/hush-line)
 - [Web Repository](https://github.com/scidsg/hushline.app)
 
-## 🧅 OnionShare
+## OnionShare
 - [Project Info](https://github.com/scidsg/project-info/blob/main/OnionShare.md)
 - [Android Repository](https://github.com/onionshare/onionshare-android)
 - [Desktop Repository](https://github.com/onionshare/onionshare)
