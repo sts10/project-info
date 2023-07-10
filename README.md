@@ -10,6 +10,8 @@
 - [Android Repository](https://github.com/onionshare/onionshare-android)
 - [Desktop Repository](https://github.com/onionshare/onionshare)
 - [iOS Repository](https://github.com/onionshare/onionshare-ios)
+- [OTF Funded](#)
+- [SUSTAIN Funded](#)
 
 
 
