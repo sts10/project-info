@@ -63,4 +63,5 @@ The app installs with a simple wizard configuring Nginx, Tor, automatically rene
 | **Organization** | **Support Type** | **Vendor** | **Services** | **Status** | **Dates** |
 | --- | --- | --- | --- | --- | --- |
 | StartSmall, LLC | Financial | Project-Specific | 
-| OTF | Services | Red Team Lab | Security Audit | Pending | April 2023 |
+| OTF | Services | Red Team Lab | Security Audit | ✅ Awarded | July 2023 |
+| OTF | Services | A11y Lab | Accessibility Audit | ✅ Awarded | July 2023 |
