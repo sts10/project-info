@@ -1,4 +1,4 @@
-# **🤫 Pi Relay Project Info**
+# **Pi Relay Project Info**
 
 ## Info
 
@@ -6,7 +6,7 @@ Pi Relay is the easiest way to transform a Raspberry Pi into a relay powering th
 
 |  |  |  |
 | --- | --- | --- |
-| **Name:** Hush Line | **Websites:**<br>[https://pirelay.computer](https://pirelay.computer/) | **Created By:** [Science & Design](https://scidsg.org/) |
+| **Name:** Pi Relay | **Websites:**<br>[https://pirelay.computer](https://pirelay.computer/) | **Created By:** [Science & Design](https://scidsg.org/) |
 | **Software type:** Open Source | **Year started:** 2023 | **Contributor Locations:** US, EU, APAC |
 | **License:** Public Domain | **Team Size:** 3 | **Contributor Type:** Volunteer |
 | **Git Repository:** [Link](https://github.com/scidsg/pi-relay) | **Donations:** [Link](https://opencollective.com/scidsg/contribute/hush-line-support-55786) | 
