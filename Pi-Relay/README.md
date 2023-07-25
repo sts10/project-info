@@ -32,14 +32,15 @@ Pi Relay is a free and open-source tool that transforms a Raspberry Pi into a re
 
 ## **Problems we're solving**
 
-The ubiquity digital connectivity has amplified the necessity for internet freedom - the right to privacy, free speech, and unrestricted access to online information. However, this freedom isn't a reality for many people across the globe. According to the Freedom on the Net 2020 report by Freedom House, internet freedom has been declining for the tenth consecutive year, with only 20% of the world's internet users residing in countries where the internet is designated as "free" [1].
+According to the Freedom on the Net 2020 report by Freedom House, only 20% of global internet users live in regions classified as "free" in terms of internet freedom [1]. This statistic emphasizes a decade-long decline of internet freedom.
 
-This trend reflects the extensive measures many governments take to control information flow, infringe on user privacy, and suppress dissenting voices. Censorship prevails in countries like China, Iran, Russia, and Belarus, where the government employs sophisticated methods to control internet access, monitor citizens' online activities, and manipulate online discussions [2].
+Countries such as China, Iran, Russia, and Belarus exercise strong control and surveillance over their internet spaces, employing methods such as keyword filtering, IP blocking, and DNS tampering to censor content and control digital discourse [2]. These practices result in a compromised online environment that suppresses free speech, restricts access to information, and perpetuates surveillance.
 
-The Tor network is a critical tool in this battle for internet freedom, as it provides an avenue for anonymous, unrestricted internet access. It helps people in repressive environments circumvent censorship, protects the identity of whistleblowers, journalists, and activists, and shields sensitive data from surveillance. However, the effectiveness and speed of the Tor network depend on the number of relays or nodes that make up the network. As of July 2023, there are approximately 6,000 relays in the Tor network [3].
+The Tor network serves as a crucial countermeasure to such online censorship and surveillance. It provides users with an anonymous connection to the internet, making it difficult for adversarial parties to track their activities or control their access to information. However, the efficacy of the Tor network depends heavily on the number and geographic distribution of its volunteer-operated servers or 'relays'.
 
-Pi Relay addresses these challenges by transforming a Raspberry Pi into a Tor relay, thereby making it simpler for individuals and organizations to contribute to the Tor network's growth and robustness. By contributing to the Tor network, users directly support the efforts to counteract internet censorship, surveillance, and threats to online freedom and privacy.
-Footnotes
+As of July 2023, the Tor network comprises approximately 6,000 active relays globally [3]. While this may seem substantial, it is insufficient to cater to the global demand for secure, fast, and reliable Tor connections, particularly in high censorship regions.
+
+This is the gap that Pi Relay aims to address. Pi Relay allows anyone with a Raspberry Pi, a cost-effective mini-computer, to effortlessly set up a Tor relay. This democratizes the relay setup process, thereby contributing to the growth, resilience, and efficiency of the Tor network. Each Pi Relay added to the system advances the global fight against internet censorship, promoting privacy, security, and freedom in digital communication.
 
 1. Freedom House. (2020). Freedom on the Net 2020: The Pandemic’s Digital Shadow. https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow 
 
