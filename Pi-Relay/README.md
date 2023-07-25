@@ -41,11 +41,11 @@ The Tor network is a critical tool in this battle for internet freedom, as it pr
 Pi Relay addresses these challenges by transforming a Raspberry Pi into a Tor relay, thereby making it simpler for individuals and organizations to contribute to the Tor network's growth and robustness. By contributing to the Tor network, users directly support the efforts to counteract internet censorship, surveillance, and threats to online freedom and privacy.
 Footnotes
 
-1. Freedom House. (2020). Freedom on the Net 2020: The Pandemic’s Digital Shadow. Retrieved from https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow ↩
+1. Freedom House. (2020). Freedom on the Net 2020: The Pandemic’s Digital Shadow. Retrieved from https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow 
 
-2. King, G., Pan, J., & Roberts, M. E. (2013). How Censorship in China Allows Government Criticism but Silences Collective Expression. American Political Science Review, 107(2), 326-343. doi:10.1017/S0003055413000014 ↩
+2. King, G., Pan, J., & Roberts, M. E. (2013). How Censorship in China Allows Government Criticism but Silences Collective Expression. American Political Science Review, 107(2), 326-343. doi:10.1017/S0003055413000014 
 
-3. Tor Project. (2023). Tor Metrics - Relay Counts and Bandwidth Stats. Retrieved from https://metrics.torproject.org/ ↩
+3. Tor Project. (2023). Tor Metrics - Relay Counts and Bandwidth Stats. Retrieved from https://metrics.torproject.org/ 
 
 ## Grant History
 
