@@ -38,7 +38,7 @@ Countries such as China, Iran, Russia, and Belarus exercise strong control and s
 
 The Tor network serves as a crucial countermeasure to such online censorship and surveillance. It provides users with an anonymous connection to the internet, making it difficult for adversarial parties to track their activities or control their access to information. However, the efficacy of the Tor network depends heavily on the number and geographic distribution of its volunteer-operated servers or 'relays'.
 
-As of July 2023, the Tor network comprises approximately 6,000 active relays globally [3]. While this may seem substantial, it is insufficient to cater to the global demand for secure, fast, and reliable Tor connections, particularly in high censorship regions.
+As of July 2023, the Tor network comprises approximately 7,000 active relays globally [3]. While this may seem substantial, it is insufficient to cater to the global demand for secure, fast, and reliable Tor connections, particularly in high censorship regions.
 
 This is the gap that Pi Relay aims to address. Pi Relay allows anyone with a Raspberry Pi, a cost-effective mini-computer, to effortlessly set up a Tor relay. This democratizes the relay setup process, thereby contributing to the growth, resilience, and efficiency of the Tor network. Each Pi Relay added to the system advances the global fight against internet censorship, promoting privacy, security, and freedom in digital communication.
 
