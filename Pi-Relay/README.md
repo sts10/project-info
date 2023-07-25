@@ -32,9 +32,7 @@ Pi Relay is a free and open-source tool that transforms a Raspberry Pi into a re
 
 ## **Problems we're solving**
 
-Over the past decade internet freedom has been in consecutive decline, according to Freedom House's 2020 Freedom on the Net report, which assesses internet freedom in 65 countries, accounting for 87% of the world's internet users [1]. This statistic marks the continuation of a decade-long slide in global internet freedom.
-
-Internet freedom is heavily compromised in countries like China, Myanmar, India, Iran, Russia, and Belarus due to aggressive surveillance and control measures, arrests of journalists, use of spyware, IP blocking, and DNS tampering [2]. These practices suppress free speech, limit access to information, and drive pervasive surveillance.
+Over the past decade internet freedom has been in consecutive decline, according to Freedom House's 2020 Freedom on the Net report, which assesses internet freedom in 65 countries, accounting for 87% of the world's internet users [1]. Countries like China, Myanmar, India, Iran, Russia, and Belarus employ aggressive surveillance and control measures, including arrests of journalists, use of spyware, IP blocking, and DNS tampering [2]. These practices suppress free speech, limit access to information, and drive pervasive surveillance.
 
 As a countermeasure to online censorship and surveillance, the Tor network offers users an anonymous connection to the internet, making their activities difficult to track and control. However, the efficacy of the Tor network depends heavily on the number and distribution of its volunteer-operated servers or 'relays'.
 
