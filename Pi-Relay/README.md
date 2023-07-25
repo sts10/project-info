@@ -32,21 +32,25 @@ Pi Relay is a free and open-source tool that transforms a Raspberry Pi into a re
 
 ## **Problems we're solving**
 
-According to the Freedom on the Net 2020 report by Freedom House, only 20% of global internet users live in regions classified as "free" in terms of internet freedom [1]. This statistic emphasizes a decade-long decline of internet freedom.
+Only 20% of the world's internet users enjoy internet freedom, according to Freedom House's 2020 Freedom on the Net report [1]. This statistic marks the continuation of a decade-long slide in global internet freedom.
 
-Countries such as China, Iran, Russia, and Belarus exercise strong control and surveillance over their internet spaces, employing methods such as keyword filtering, IP blocking, and DNS tampering to censor content and control digital discourse [2]. These practices result in a compromised online environment that suppresses free speech, restricts access to information, and perpetuates surveillance.
+Internet freedom is heavily compromised in countries like China, Iran, Russia, and Belarus due to aggressive surveillance and control measures, including keyword filtering, IP blocking, and DNS tampering [2]. These practices suppress free speech, limit access to information, and drive pervasive surveillance.
 
-The Tor network serves as a crucial countermeasure to such online censorship and surveillance. It provides users with an anonymous connection to the internet, making it difficult for adversarial parties to track their activities or control their access to information. However, the efficacy of the Tor network depends heavily on the number and geographic distribution of its volunteer-operated servers or 'relays'.
+As a countermeasure to online censorship and surveillance, the Tor network offers users an anonymous connection to the internet, making their activities difficult to track and control. However, the efficacy of the Tor network depends heavily on the number and distribution of its volunteer-operated servers or 'relays'.
 
-As of July 2023, the Tor network comprises approximately 7,000 active relays globally [3]. While this may seem substantial, it is insufficient to cater to the global demand for secure, fast, and reliable Tor connections, particularly in high censorship regions.
+With around 6,000 active relays as of July 2023, the Tor network faces significant challenges in consistently providing secure, fast, and reliable connections worldwide, particularly in high censorship areas [3]. Dingledine, Mathewson, and Syverson (2004) highlighted the direct relation between Tor network's performance and its number of relays [4]. Similarly, a 2016 study by Greschbach et al. found improved Tor connections' speed and performance with increased relay density in a geographic area [5]. This underscores the importance of expanding the Tor relay network, a goal made easier by tools like Pi Relay.
 
-This is the gap that Pi Relay aims to address. Pi Relay allows anyone with a Raspberry Pi, a cost-effective mini-computer, to effortlessly set up a Tor relay. This democratizes the relay setup process, thereby contributing to the growth, resilience, and efficiency of the Tor network. Each Pi Relay added to the system advances the global fight against internet censorship, promoting privacy, security, and freedom in digital communication.
+Pi Relay empowers anyone with a Raspberry Pi, an affordable mini-computer, to set up a Tor relay effortlessly. This democratizes the relay setup process, thereby improving the Tor network's growth, resilience, and efficiency. Each addition of a Pi Relay to the system pushes forward the global fight against internet censorship, enhancing privacy, security, and freedom in digital communication.
 
-1. Freedom House. (2020). Freedom on the Net 2020: The Pandemic’s Digital Shadow. https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow 
+[1] Freedom House. (2020). Freedom on the Net 2020: The Pandemic’s Digital Shadow. https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow
 
-2. King, G., Pan, J., & Roberts, M. E. (2013). How Censorship in China Allows Government Criticism but Silences Collective Expression. https://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression
+[2] King, G., Pan, J., & Roberts, M. E. (2013). How Censorship in China Allows Government Criticism but Silences Collective Expression. https://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression
 
-3. Tor Project. (2023). Tor Metrics - Relay Counts and Bandwidth Stats. https://metrics.torproject.org/ 
+[3] Tor Project. (2023). Tor Metrics - Relay Counts and Bandwidth Stats. https://metrics.torproject.org/
+
+[4] Dingledine, R., Mathewson, N., & Syverson, P. (2004). Tor: The Second-Generation Onion Router. Naval Research Lab Washington DC. https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf
+
+[5] Greschbach, B., Pulls, T., Roberts, L. G., Winter, P., & Murdoch, S. J. (2016, October). The Effect of DNS on Tor's Anonymity. In NDSS. https://arxiv.org/abs/1609.08187
 
 ## Grant History
 
