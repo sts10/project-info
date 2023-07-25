@@ -42,15 +42,15 @@ With around 6,000 active relays as of July 2023, the Tor network faces significa
 
 Pi Relay empowers anyone with a Raspberry Pi, an affordable mini-computer, to set up a Tor relay effortlessly. This democratizes the relay setup process, thereby improving the Tor network's growth, resilience, and efficiency. Each addition of a Pi Relay to the system pushes forward the global fight against internet censorship, enhancing privacy, security, and freedom in digital communication.
 
-[1] Freedom House. (2020). Freedom on the Net 2020: The Pandemic’s Digital Shadow. https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow
+1. Freedom House. (2020). Freedom on the Net 2020: The Pandemic’s Digital Shadow. https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow
 
-[2] King, G., Pan, J., & Roberts, M. E. (2013). How Censorship in China Allows Government Criticism but Silences Collective Expression. https://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression
+2. King, G., Pan, J., & Roberts, M. E. (2013). How Censorship in China Allows Government Criticism but Silences Collective Expression. https://gking.harvard.edu/publications/how-Censorship-China-Allows-Government-Criticism-Silences-Collective-Expression
 
-[3] Tor Project. (2023). Tor Metrics - Relay Counts and Bandwidth Stats. https://metrics.torproject.org/
+3. Tor Project. (2023). Tor Metrics - Relay Counts and Bandwidth Stats. https://metrics.torproject.org/
 
-[4] Dingledine, R., Mathewson, N., & Syverson, P. (2004). Tor: The Second-Generation Onion Router. Naval Research Lab Washington DC. https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf
+4. Dingledine, R., Mathewson, N., & Syverson, P. (2004). Tor: The Second-Generation Onion Router. Naval Research Lab Washington DC. https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf
 
-[5] Greschbach, B., Pulls, T., Roberts, L. G., Winter, P., & Murdoch, S. J. (2016, October). The Effect of DNS on Tor's Anonymity. In NDSS. https://arxiv.org/abs/1609.08187
+5. Greschbach, B., Pulls, T., Roberts, L. G., Winter, P., & Murdoch, S. J. (2016, October). The Effect of DNS on Tor's Anonymity. In NDSS. https://arxiv.org/abs/1609.08187
 
 ## Grant History
 
