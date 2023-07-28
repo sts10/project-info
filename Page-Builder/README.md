@@ -43,10 +43,10 @@ If left unaddressed, the digital divide threatens to grow, exacerbating inequali
 Footnotes
 
 1. World Bank. (2021). World Development Report 2021: Data for Better Lives. https://www.worldbank.org/en/publication/wdr2021 
-2. Freedom House. (2020). Freedom on the Net 2020: The Pandemic's Digital Shadow. https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow 
+2. Freedom House. (2020). Freedom on the Net 2020: The Pandemic's Digital Shadow. https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow
 3. Internet disruption hits Belarus on election day. https://netblocks.org/reports/internet-disruption-hits-belarus-on-election-day-YAE2jKB3
 4. Reuters. (2021). Myanmar’s internet suppression. https://www.reuters.com/graphics/MYANMAR-POLITICS/INTERNET-RESTRICTION/rlgpdbreepo/
-5. HTTP Archive. (2023). Page Weight. https://httparchive.org/reports/page-weight 
+5. HTTP Archive. (2023). Page Weight. https://httparchive.org/reports/page-weight
 
 ## Grant History
 
