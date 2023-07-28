@@ -1,11 +1,11 @@
 # Simple Design System
 
 ## Info
-OnionShare is a cross-platform tool facilitating safe peer-to-peer file sharing, website hosting, and chatting, optimized for people in areas that experiences internet censorship by utilizing the Tor Network for anonymity. It is integrated into security-focused operating systems like Qubes OS, Tails, Whonix, and Parrot OS, providing users with comprehensive private online communication and information exchange tools. The app is free and open-source, localized into 12 languages and the documentation into eight, and available on MacOS, Linux, Windows, Android, and iOS. 
+The Simple Design System is a research-based framework to create robust and resilient web experiences. The design system is built using resources including accessibility tools, ethical guidelines, and usability research, all aimed at enhancing the security, privacy, and inclusivity of web interfaces. Its focus on creating Tor Browser-optimized, accessible, usable, and private digital experiences that aligns with the goal of promoting human rights and open societies. Whether used as a foundation for a project or making it your own, the Simple Design System enables the crafting of websites that empower voices, regardless of their geographical or political context.
 
 |  |  |  |
 | --- | --- | --- |
-| **Name:** OnionShare | **License:** GPLv3 | **Contributor Type:** Volunteer |
+| **Name:** Simple Design System | **License:** The Unlicense | **Contributor Type:** Volunteer |
 | **Website:** [https://onionshare.org](https://onionshare.org/) | **Year started:** 2014 | **Contributor Locations:** US, EU, APAC |
 | **Git Repository:** [https://github.com/onionshare](https://github.com/onionshare) | **Created By:** Micah Lee | **Team Size:** 5 |
 | **Software type:** Open Source | **Price:** Free | **Fiscal Sponsor:** [Science & Design](https://scidsg.org/) |
