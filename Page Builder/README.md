@@ -2,7 +2,7 @@
 
 ## Info
 
-Page Builder is a tool that simplifies the process of creating efficient, single-page websites, built on the belief that anyone should be able to contribute to the digital sphere, regardless of technical skills or financial resources. It optimizes performance by using system default fonts, resulting in website sizes that are on average 90% smaller than the web average of 2MB [[1](https://httparchive.org/reports/state-of-the-web)]. Additionally, the tool produces mobile-responsive sites, a crucial feature as nearly half of global web traffic now comes from mobile devices [[2](https://www.statista.com/statistics/683082/share-of-website-traffic-coming-from-mobile-devices-usa/)]. Page Builder can function entirely offline in a user's browser for enhanced security and privacy, especially beneficial in regions facing internet censorship. Whether the pages you design are used in their default state or as a base for further customization, Page Builder offers a path towards a more inclusive digital landscape.
+Page Builder is a tool that enables anyone to build private, research-based, resilient websites. It is built on the premise that you shouldn't have to be tech-savvy or have a lot of money to create a great website. Page Builder, an offline-optimized tool, exports lightweight, single-file, single-page websites optimized for efficiency, device compatibility, and offline usage. Now, a human rights activist operating in a hostile country can easily create an accessible, usable, and beautiful website to get their information out without any third parties or fear of being monitored.
 
 |  |  |  |
 | --- | --- | --- |
