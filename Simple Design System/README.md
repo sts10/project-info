@@ -6,9 +6,9 @@ The Simple Design System is a research-based framework to create robust and resi
 |  |  |  |
 | --- | --- | --- |
 | **Name:** Simple Design System | **License:** The Unlicense | **Contributor Type:** Volunteer |
-| **Website:** [https://onionshare.org](https://onionshare.org/) | **Year started:** 2014 | **Contributor Locations:** US, EU, APAC |
-| **Git Repository:** [https://github.com/onionshare](https://github.com/onionshare) | **Created By:** Micah Lee | **Team Size:** 5 |
-| **Software type:** Open Source | **Price:** Free | **Fiscal Sponsor:** [Science & Design](https://scidsg.org/) |
+| **Website:** [https://scidsg.github.io/design-system/](https://scidsg.github.io/design-system/) | **Year started:** 2021 | **Contributor Locations:** US, APAC |
+| **Git Repository:** [https://github.com/scidsg/design-system](https://github.com/scidsg/design-system) | **Created By:** Science & Design | **Team Size:** 5 |
+| **Software type:** Open Source | **Price:** Free | |
 
 ## Team
 | Name | Role | Contact |
