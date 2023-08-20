@@ -2,7 +2,11 @@
 
 ## Info
 
-Pi Relay is a free and open-source tool that transforms a Raspberry Pi into a relay for the Tor Network, aiming to enhance internet safety and access. It is especially beneficial in regions where internet censorship is present. Users such as journalists, librarians, and businesses can utilize Pi Relay to contribute the resiliency and performance of the Tor Network. Pi Relay facilitates the navigation through internet restrictions, upholds privacy, and assists in secure access. By supporting a network that counters digital security threats, it contributes to the broader goals of human rights, open societies, and internet freedom. Add an e-paper display to visualize your relay's activity.
+Pi Relay is an easy way to turn a Raspberry Pi into a Tor middle relay, making it a fun, easy, and accessible way to strengthen the Tor Network and grow the anonymity set from home. The installation is fully guided, automating the process of safely deploying a Relay without installing packages, manually editing a torrc file, or navigating the terminal. While it's not *that* hard to do, it's *very* easy to mess up, and we want to avoid accidentally running an exit relay from home or forgetting to add bandwidth limits. We only ask a few things during setup, including how much data you'd like to share that month and your bandwidth caps.
+
+The goal is to enable the home user to easily and safely contribute back to the Tor network using popular and ubiquitous hardware. Optionally add an e-paper display to visualize information about your Relay, including basic metadata and a live updating graph of the total bandwidth you've shared that accounting period. 
+
+Our first version of the tool focuses on people at home - from the premise that lots of people have extra hardware and want to help, but there's a technical barrier because once you ask someone to read documentation, open the terminal, and manually edit or craft a file, you'll lose most of your audience.
 
 |  |  |  |
 | --- | --- | --- |
