@@ -8,6 +8,10 @@ The goal is to enable the home user to easily and safely contribute back to the 
 
 Our first version of the tool focuses on people at home - from the premise that lots of people have extra hardware and want to help, but there's a technical barrier because once you ask someone to read documentation, open the terminal, and manually edit or craft a file, you'll lose most of your audience.
 
+We want people all over the world to be able to participate in making the internet safer by streamlining the process of adding trustworthy, properly configured, automatically updating Tor relays.
+
+Soon we want to expand to address institutional users, partnering with public libraries, universities, and businesses to run high-speed exit and bridge relays.
+
 |  |  |  |
 | --- | --- | --- |
 | **Name:** Pi Relay | **Website:**<br>[https://pirelay.computer](https://pirelay.computer/) | **Created By:** [Science & Design](https://scidsg.org/) |
