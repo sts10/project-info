@@ -8,7 +8,9 @@ Other tools in this space are SecureDrop and GlobalLeaks, two robust, widely ado
 
 It's not much easier for the person sending a message, either. They must create accounts, download new software, and manage PGP keys. It requires a significant commitment to share some information—another prohibitively tricky requirement.
 
-In contrast, Hush Line is a text-only, one-way messenger that acts as the first handshake of a relationship where two parties want to exchange information. It's a low-risk method of offering a safe channel for someone to reach you without requiring them to reveal anything about themselves, create an account or PGP keys, or acquire a burner phone, email address, or phone number. 
+Even tools like Signal or Protonmail require the end-user to reveal information about themselves, or find disposable phone numbers and email addresses, a tricky hurdle for the non-technical user. 
+
+In contrast, Hush Line is a text-only, one-way messenger that acts as the first handshake of a relationship where two parties want to exchange information. It's a low-risk method of offering a safe channel for someone to reach you without requiring them to reveal anything about themselves, create an account, manage PGP keys, or acquire a burner phone, email address, or phone number. 
 
 The tool deploys to either an onion-only instance or Tor + public web. It's a web and email server and a Python app that encrypts a message with your public PGP key once a message gets submitted, then saves it, and finally emails the encrypted message to you. Your data never gets saved in an unencrypted state. And since all messages are sent to your email, you never have to log in to the device.
 
