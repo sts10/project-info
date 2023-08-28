@@ -17,9 +17,6 @@
 - https://techjury.net/blog/internet-censorship-statistics/
   - 4.2 billion people were affected by internet censorship in 2022 
 
-### Legal and Ethics
-
-
 ### Whistleblowing
 - [OSHA Whistleblower Statistics FY2017 – FY2022](https://www.whistleblowers.gov/factsheets_page/statistics/FY2022)
 - [SEC Awards Whistleblower More Than $18 Million](https://www.sec.gov/news/press-release/2023-161)
