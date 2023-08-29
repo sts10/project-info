@@ -1,4 +1,4 @@
-All work by **Science & Design, Inc.** is free and unencumbered software [released into the public domain](https://github.com/scidsg/Project-Info/blob/main/LICENSE.md).
+❤️ All work by **Science & Design, Inc.** is free and unencumbered software [released into the public domain](https://github.com/scidsg/Project-Info/blob/main/LICENSE.md).
 
 # Project Info
 
