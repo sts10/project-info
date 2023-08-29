@@ -1,3 +1,5 @@
+All work by **Science & Design, Inc.** is free and unencumbered software released into the public domain.
+
 # Project Info
 
 - [Hush Line](https://github.com/scidsg/Project-Info/tree/main/Hush%20Line)
