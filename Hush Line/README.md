@@ -2,7 +2,27 @@
 
 ## Info
 
-Hush Line is a self-hosted secure, anonymous tip line and suggestion box designed to protect user privacy and message confidentiality. It uses PGP encryption, Tor, onion binding, HTTPS, and SMTP to ensure safe and reliable communication for journalists, employers, and educators. Hush Line is crucial in areas with internet censorship, providing users with a free and open-source platform to share sensitive info without fear.
+Hush Line is a free and open-source, self-hosted anonymous tip line that makes it easy for organizations or individuals to install and use. It's intended for journalists and newsrooms to offer a public tip line; by educators and school administrators to provide students with a safe way to report potentially sensitive information, or employers, Board rooms, and C-suites for anonymous employee reporting. 
+
+Other tools in this space are SecureDrop and GlobalLeaks, two robust, widely adopted whistleblowing platforms whose installation process can be prohibitive without an admin to do it for you. Some systems even require special infrastructure to operate, and for a good reason, when you allow people to send you files anonymously, you'll receive both malicious and dirty data. Both require significant time and money to manage. 
+
+It's not much easier for the person sending a message, either. They must create accounts, download new software, and manage PGP keys. It requires a significant commitment to share some information—another prohibitively tricky requirement.
+
+Even tools like Signal or Protonmail require the end-user to reveal information about themselves, or find disposable phone numbers and email addresses, a tricky hurdle for the non-technical user. 
+
+In contrast, Hush Line is a text-only, one-way messenger that acts as the first handshake of a relationship where two parties want to exchange information. It's a low-risk method of offering a safe channel for someone to reach you without requiring them to reveal anything about themselves, create an account, manage PGP keys, or acquire a burner phone, email address, or phone number. 
+
+The tool deploys to either an onion-only instance or Tor + public web. It's a web and email server and a Python app that encrypts a message with your public PGP key once a message gets submitted, then saves it, and finally emails the encrypted message to you. Your data never gets saved in an unencrypted state. And since all messages are sent to your email, you never have to log in to the device.
+
+We configure Nginx with hardened security headers so no external and potentially nefarious resources can load, automatically set up renewing Let's Encrypt HTTPS certificates so your data is always transmitted safely, privacy-preserving logging which scrubs IP addresses before saving to server logs, and enable automatic updates by default so you never miss a critical security patch.
+
+You only need a public PGP key on a keyserver and an SMTP-compatible email address. We ask for your key this way because uploading it includes verifying your email address, helping us know you are whom you say.
+
+Built with popular and ubiquitous hardware and software in mind, it works seamlessly on Raspberry Pi and Debian-based operating systems. You can even add an e-paper display to make your Hush Line address easy to discover.
+
+We want to offer a solution to those who want to help that have reportable or actionable information but don't want to face retaliation or get involved. Over 70% of people have witnessed or experienced workplace harassment. Only 15% of those people ever make a formal written complaint. About 1% ever has something done about it. That's a big oversight for employers, which could become a significant liability left unattended. And the reason people don't report? They're afraid of retaliation. 
+
+How much better, safer, and more informed could our schools, workplaces, and society be with a safe way to share information that places the privacy of their communities first?
 
 |  |  |  |
 | --- | --- | --- |
