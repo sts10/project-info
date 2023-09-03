@@ -4,7 +4,8 @@
 
 - [App Repository](https://github.com/scidsg/pi-relay)
 - [Website Repository](https://github.com/scidsg/pirelay.computer)
-- [Marketing Design File](https://www.figma.com/file/Y8BdOLeo2PZdFESD3Qzhl2/Pi-Relay-Marketing?type=design&node-id=0%3A1&mode=design&t=m9L60iLi34odYfD6-1)
+- [Design File](https://www.figma.com/file/YHzSBo6okChGcnvN8Q01Ne/Pi-Relay?type=design&node-id=0%3A1&mode=design&t=Gp0yKQhFHnIjQeEK-1)
+   - Web Assets
    - Social Media
    - Print Fliers 
 
