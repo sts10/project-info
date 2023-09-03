@@ -1,5 +1,11 @@
 # **Pi Relay Project Info**
 
+## Links
+
+- [Marketing Design File](https://www.figma.com/file/Y8BdOLeo2PZdFESD3Qzhl2/Pi-Relay-Marketing?type=design&node-id=0%3A1&mode=design&t=m9L60iLi34odYfD6-1)
+   - Social Media
+   - Print Fliers 
+
 ## Info
 
 Pi Relay is an easy way to turn a Raspberry Pi into a Tor middle relay, making it a fun, easy, and accessible way to strengthen the Tor Network and grow the anonymity set from home. The installation is fully guided, automating the process of safely deploying a Relay without installing packages, manually editing a torrc file, or navigating the terminal. While it's not *that* hard to do, it's *very* easy to mess up, and we want to avoid accidentally running an exit relay from home or forgetting to add bandwidth limits. We only ask a few things during setup, including how much data you'd like to share that month and your bandwidth caps.
