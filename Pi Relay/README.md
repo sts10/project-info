@@ -2,6 +2,8 @@
 
 ## Links
 
+- [App Repository](https://github.com/scidsg/pi-relay)
+- [Website Repository](https://github.com/scidsg/pi-relay-computer)
 - [Marketing Design File](https://www.figma.com/file/Y8BdOLeo2PZdFESD3Qzhl2/Pi-Relay-Marketing?type=design&node-id=0%3A1&mode=design&t=m9L60iLi34odYfD6-1)
    - Social Media
    - Print Fliers 
