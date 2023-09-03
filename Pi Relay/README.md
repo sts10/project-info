@@ -25,7 +25,7 @@ Soon we want to expand to address institutional users, partnering with public li
 | **Name:** Pi Relay | **Website:**<br>[https://pirelay.computer](https://pirelay.computer/) | **Created By:** [Science & Design](https://scidsg.org/) |
 | **Software type:** Open Source | **Year started:** 2023 | **Contributor Locations:** US, EU, APAC |
 | **License:** Public Domain | **Team Size:** 3 | **Contributor Type:** Volunteer |
-| **Git Repository:** [Link](https://github.com/scidsg/pi-relay) | **Donations:** [Link](https://opencollective.com/scidsg/contribute/pi-relay-supporter-61700) | 
+| **Donations:** [Link](https://opencollective.com/scidsg/contribute/pi-relay-supporter-61700) | 
 
 ## Users
 
