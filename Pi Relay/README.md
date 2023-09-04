@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Roadmap](https://github.com/orgs/scidsg/projects/14/views/1)
 - [App Repository](https://github.com/scidsg/pi-relay)
 - [Website Repository](https://github.com/scidsg/pirelay.computer)
 - Design Files
