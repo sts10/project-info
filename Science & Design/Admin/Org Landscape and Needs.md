@@ -1,4 +1,4 @@
-# Non-Profit Landscape and Needs
+# O Landscape and Needs
 
 ## Vision and Strategy
 - Clear mission statement and vision.
