@@ -66,6 +66,6 @@
 - Long-term sustainability planning.
 
 ## Technology and Innovation
-- Keeping up-to-date with the latest tools and platforms.
-- Adapting to digital transformation trends.
-- Ensuring data protection and cybersecurity measures.
+- Product design and user research.
+- Engineering and quality assurance.
+- Privacy and security engineering.
