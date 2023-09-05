@@ -1,4 +1,4 @@
-# O Landscape and Needs
+# Org Landscape and Needs
 
 ## Vision and Strategy
 - Clear mission statement and vision.
