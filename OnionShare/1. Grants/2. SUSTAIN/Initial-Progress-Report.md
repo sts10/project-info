@@ -1,7 +1,7 @@
 # Initial Report for Internews
 
 **Project:** OnionShare Release Process Improvement<br>
-**Reporting Period:** Q1 2023
+**Reporting Period:** Initial Period 2023
 
 ## Executive Summary
     
