@@ -11,23 +11,31 @@ In this first quarter of activity, the OnionShare team has made significant prog
 
 **1. Transition to 64-bit for Windows**
   - All previous Windows versions of OnionShare were 32-bit. The recent upgrade to PySide6 necessitated a move to abandon support for 32-bit Windows, resulting in the forthcoming 2.6.1 release being 64-bit.
+    
 **2. Support for Apple Silicon Macs**
   - We have successfully integrated support for both Intel and Apple Silicon in our macOS version. This strategic move enhances the usability and accessibility of our software for an increasingly diverse hardware market.
+
 **3. Snapcraft and Flatpak for Linux**
   - Instead of trying to cater to a multitude of Linux distributions, we've chosen to focus our efforts on releases for Snapcraft and Flatpak. This strategy ensures broad compatibility without the need to individually cater to each distro variant.
+
 **4. Code Signing Overhaul**
   - Switched our Windows code signing certificate provider from the Polish CA Certum to HARICA, a Certificate Authority managed by Greek universities.
   - Maintained our Apple Developer key for the macOS application bundle.
   - The code signing keys are now safeguarded on physical USB smart cards, ensuring heightened security.
+
 **5. Collaboration with Science & Design**
   - Our partnership with the newly-formed nonprofit, Science & Design, has opened new avenues for financial support. Science & Design, spearheaded by Glenn Sorrentino, has become the fiscal sponsor for OnionShare, further ensuring the continuity and vibrancy of the project.
+
 **6. Software Dependency Management**
   - Successful migration from PySide2 to PySide6.
   - Efficient management and inclusion of various software dependencies like PySide6, tor, libevent, and several others.
+
 **7. Automated Release Workflow**
   - We've initiated the use of a GitHub Actions workflow to automate the building of binaries across various platforms. This initiative drastically reduces manual intervention and streamlines the release process.
+
 **8. Localization**
   - Maintaining OnionShare’s commitment to accessibility, we ensure that all translations are incorporated during every release. This quarter saw comprehensive work done in updating and verifying language support.
+
 **9. Documentation Updates**
   - Our internal release procedure, detailed in the RELEASE.md file in our git repository, has been continuously updated to reflect the changes and improvements we implement.
 
@@ -43,12 +51,15 @@ A significant area of focus this quarter has been the strengthening of our proje
 **1. Strategic Planning**
   - Alignment across team members of high-level goals and milestoes for release optmization and cross-training.
   - Create outline for rapid cycles of improving and releasing OnionShare’s desktop and web properties, iterating on our process and optimizing for efficient packaging and delivery.
+
 **2. Framework for Execution**
   - Our team adopted a framework promoting operating system coverage, staff redundancy, and processes of optimizing our code releases. 
   - This method ensured all members were aware of their responsibilities and could swiftly adapt to changes.
+
 **3. Hardware Acquisition**
   - We've arrived at the devices required for complete coverage for code signing. 
   - HARICA signing keys have begun to get distributed to team members.
+
 **4. Collaborative Tool Integration**
   - Keybase has been utilized for team communication and sharing updates.
   - Github used for collecting and communicating foundational project information, relevant grant documentation, and code repositories.
