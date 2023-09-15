@@ -20,9 +20,11 @@ You only need a public PGP key on a keyserver and an SMTP-compatible email addre
 
 Built with popular and ubiquitous hardware and software in mind, it works seamlessly on Raspberry Pi and Debian-based operating systems. You can even add an e-paper display to make your Hush Line address easy to discover.
 
-We want to offer a solution to those who want to help that have reportable or actionable information but don't want to face retaliation or get involved. Over 70% of people have witnessed or experienced workplace harassment. Only 15% of those people ever make a formal written complaint. About 1% ever has something done about it. That's a big oversight for employers, which could become a significant liability left unattended. And the reason people don't report? They're afraid of retaliation. 
+We want to offer a solution to those who want to help that have reportable or actionable information but don't want to face retaliation or get involved. Over 60% of people have witnessed or experienced workplace harassment or discrimination [1]. Only 15% of those people ever make a formal written complaint [1]. That's a big oversight for employers, which could become a significant liability left unattended. And the reason people don't report? They're afraid of retaliation. 
 
 How much better, safer, and more informed could our schools, workplaces, and society be with a safe way to share information that places the privacy of their communities first?
+
+1. https://hbr.org/2020/10/do-your-employees-feel-safe-reporting-abuse-and-discrimination
 
 |  |  |  |
 | --- | --- | --- |
