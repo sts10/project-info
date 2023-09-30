@@ -29,7 +29,7 @@ Plug the power supply into the device and let it boot up.
 
 ### 3. Terminal
 
-On a Mac, open your terminal by pressing CMD + Space to open spotlight search. Enter "Terminal" and select the application with the same name. 
+On a Mac, open Spotlight search by pressing CMD + Space. Enter "Terminal" and select the application with the same name. 
 
 ![21-terminal](https://github.com/scidsg/project-info/assets/28545431/e2729634-6ee7-42bd-8736-d10ef1c4896c)
 
