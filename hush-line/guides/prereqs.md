@@ -72,7 +72,7 @@ Your PGP Key is in the grey box, beginning with `-----BEGIN PGP PUBLIC KEY BLOCK
 
 ### 8. Create an app password
 
-Hush Line has a mail server installed to send messages to your email address. You'll need SMTP information, as well as a password. You should never use your main account password; instead, create app-specific passwords. These are essentially purpose-made for single applications. 
+Hush Line has a mail server installed to encrypted send messages to your email address. You'll need SMTP information, as well as a password. You should never use your main account password; instead, create app-specific passwords. These are essentially purpose-made for single applications. 
 
 From your Gmail account, click on your avatar to access your account-level options. Select `Manage Google Account`.
 
