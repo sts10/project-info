@@ -61,8 +61,6 @@ The installer will walk you through everything needed to get Hush Line working. 
 - Port: 465
 - Public PGP key (from prerequisites)
 
-When you reach the step to enter your PGP key, after pasting make sure to type "END" on a new line, then press Enter.
-
 ![23-key](https://github.com/scidsg/project-info/assets/28545431/0a5a1c11-c45b-454b-83d3-932ddf658398)
 
 Once the installation completes, you'll see a message that looks like this:
