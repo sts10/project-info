@@ -1,5 +1,10 @@
 # Hush Line Prerequisites 
 
+1. Raspberry Pi Imager
+2. Tor Browser
+3. Gmail
+4. Mailvelope
+
 ## Necessary Software
 
 ### 1. Raspberry Pi Imager
@@ -19,6 +24,10 @@ Your Hush Line has the option to only be reachable via the Tor Browser. It's not
 ### 3. Gmail
 
 We'll use Gmail for its high reliability. If you don't already have an account, create one. It's also not a bad idea to have an email address separate from your personal account.
+
+#### App Passwords
+
+Hush Line has a mail server installed to send messages to your email address. You'll need SMTP information, as well as a password. You should never use your main account password; instead, create app-specific passwords. These are essentially purpose-made 
 
 ### 4. Mailvelope
 
