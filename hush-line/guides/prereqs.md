@@ -1,5 +1,7 @@
 # Hush Line Raspberry Pi Prerequisites 
 
+In this section you'll need the following things to get Hush Line ready to install:
+
 1. [Raspberry Pi Imager](#1-raspberry-pi-imager)
 2. [Tor Browser](#2-tor-browser)
 3. [Gmail](#3-gmail)
