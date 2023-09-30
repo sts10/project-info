@@ -1,4 +1,4 @@
-# Install Hush Line on a Raspberry Pi
+![23-key](https://github.com/scidsg/project-info/assets/28545431/58dec3f5-835e-46fe-b774-0d87bfa05547)# Install Hush Line on a Raspberry Pi
 
 In this section, we'll need the following:
 
@@ -63,7 +63,7 @@ The installer will walk you through everything needed to get Hush Line working. 
 
 When you reach the step to enter your PGP key, after pasting make sure to type "END" on a new line, then press Enter.
 
-![23-key](https://github.com/scidsg/project-info/assets/28545431/920453e9-8bf9-4a40-bb1c-b9f2be095519)
+![23-key](https://github.com/scidsg/project-info/assets/28545431/0a5a1c11-c45b-454b-83d3-932ddf658398)
 
 Once the installation completes, you'll see a message that looks like this:
 ```
