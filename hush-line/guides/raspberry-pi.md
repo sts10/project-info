@@ -31,16 +31,17 @@ Plug the power supply into the device and let it boot up.
 
 On a Mac, open Spotlight search by pressing CMD + Space. Enter "Terminal" and select the application with the same name. 
 
-![21-terminal](https://github.com/scidsg/project-info/assets/28545431/e2729634-6ee7-42bd-8736-d10ef1c4896c)
-
 Enter `ssh hush@hushline.local`, and when prompted, enter the password you created in the first step.
+
+![21-terminal-login](https://github.com/scidsg/project-info/assets/28545431/013192bc-3046-40ce-8335-7021d562a64c)
 
 ## Install Hush Line
 
 ### 4. Start the script
 
-Once logged in, enter `curl -sSL https://install.hushline.app | bash` to start the installation.
+Once logged in, enter `sudo su` then `curl -sSL https://install.hushline.app | bash` to start the installation.
 
+![21-terminal](https://github.com/scidsg/project-info/assets/28545431/e2729634-6ee7-42bd-8736-d10ef1c4896c)
 ![22-install-hushline](https://github.com/scidsg/project-info/assets/28545431/1c4b9fa3-758f-4305-ad98-335d761ba508)
 ![23-prompt](https://github.com/scidsg/project-info/assets/28545431/ed5bf0d1-5a0b-4fa8-8bfa-870504dfc271)
 
