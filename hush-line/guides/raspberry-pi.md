@@ -1,5 +1,11 @@
 # Install Hush Line on a Raspberry Pi
 
+In this section, we'll need the following:
+
+- Raspberry Pi
+- microSD Card
+- Power Supply
+
 ## Prep Your Card
 
 ### 1. Raspberry Pi Imager
