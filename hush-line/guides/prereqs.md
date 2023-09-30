@@ -4,6 +4,7 @@
 2. [Tor Browser](#2-tor-browser)
 3. [Gmail](#3-gmail)
 4. [Mailvelope](#4-mailvelope)
+5. [App Password](#8-create-an-app-password)
 
 ## Necessary Software
 
