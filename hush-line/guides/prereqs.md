@@ -1,9 +1,9 @@
 # Hush Line Raspberry Pi Prerequisites 
 
-1. Raspberry Pi Imager
-2. Tor Browser
-3. Gmail
-4. Mailvelope
+1. [Raspberry Pi Imager](#1-raspberry-pi-imager)
+2. [Tor Browser](#2-tor-browser)
+3. [Gmail](#3-gmail)
+4. [Mailvelope](#4-mailvelope)
 
 ## Necessary Software
 
