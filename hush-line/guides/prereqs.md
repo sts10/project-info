@@ -8,7 +8,7 @@ In this section you'll need the following things to get Hush Line ready to insta
 4. [Mailvelope](#4-mailvelope)
 5. [App Password](#8-create-an-app-password)
 
-## Necessary Software
+## Software Downloads
 
 ### 1. Raspberry Pi Imager
 
