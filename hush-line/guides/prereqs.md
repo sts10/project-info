@@ -25,10 +25,6 @@ Your Hush Line has the option to only be reachable via the Tor Browser. It's not
 
 We'll use Gmail for its high reliability. If you don't already have an account, create one. It's also not a bad idea to have an email address separate from your personal account.
 
-#### App Passwords
-
-Hush Line has a mail server installed to send messages to your email address. You'll need SMTP information, as well as a password. You should never use your main account password; instead, create app-specific passwords. These are essentially purpose-made 
-
 ### 4. Mailvelope
 
 To decrypt Hush Line messages, we'll use Mailvelope, which integrates with Gmail, adding PGP functionality. You can add the extension to your browser here: https://addons.mozilla.org/en-US/firefox/addon/mailvelope/
@@ -72,4 +68,24 @@ Your PGP Key is in the grey box, beginning with `-----BEGIN PGP PUBLIC KEY BLOCK
 ![12-public-key](https://github.com/scidsg/project-info/assets/28545431/6ba01973-8fdc-43e1-83a4-5f9152d77a66)
 ![13-copy-key](https://github.com/scidsg/project-info/assets/28545431/fe400d7a-8dbd-44e4-b360-4f92839caf83)
 
-🎉 Congratulations, you can now read encrypted email directly in your Gmail inbox! 
+## App Password
+
+### 8. Create an app password
+
+Hush Line has a mail server installed to send messages to your email address. You'll need SMTP information, as well as a password. You should never use your main account password; instead, create app-specific passwords. These are essentially purpose-made for single applications. 
+
+From your Gmail account, click on your avatar to access your account-level options. Select `Manage Google Account`.
+
+![14-profile-menu](https://github.com/scidsg/project-info/assets/28545431/bc6f8df3-313b-404d-8911-5fa66785eccb)
+
+Next, click on the Security tab on the left, then scroll to the bottom of the page to find App Passwords.
+
+![15-security](https://github.com/scidsg/project-info/assets/28545431/21cc352e-dc8d-468c-8e98-affe3a382193)
+![16-app-passwords](https://github.com/scidsg/project-info/assets/28545431/ecc35f89-c513-4ac3-8e1e-65504ede406f)
+
+Click on App Passwords, then enter a name, then click Create. A dialog will pop up with your app-specfic password. Copy it to a notepad for easy access.
+
+![17-create-password](https://github.com/scidsg/project-info/assets/28545431/9136b863-f24c-495d-9ffa-32adfe15fa05)
+![18-copy-password](https://github.com/scidsg/project-info/assets/28545431/b448db84-78e5-4194-a23e-aa62b8449661)
+
+🎉 Congratulations, you're now ready to install Hush Line!
