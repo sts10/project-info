@@ -1,4 +1,4 @@
-# Hush Line Prerequisites 
+# Hush Line Raspberry Pi Prerequisites 
 
 1. Raspberry Pi Imager
 2. Tor Browser
