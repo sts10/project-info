@@ -12,6 +12,8 @@ After logging in to either your Raspberry Pi or VPS, enter the follow command to
 
 Choose "Tor-Only" at the first prompt for the installation type.
 
+![23-tor-only](https://github.com/scidsg/project-info/assets/28545431/89ab37a1-8a55-444d-b414-d03aae739c92)
+
 ## 2. Add Email Information
 
 Hush Line will send an email with the encrypted Hush Line message to the account you configure here. Since we're using Gmail, we'll need the following information:
