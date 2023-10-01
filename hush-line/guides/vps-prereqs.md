@@ -36,4 +36,7 @@ After a minute or two your Droplet should be ready. The "Resources" tab should b
 
 ![32-droplet](https://github.com/scidsg/project-info/assets/28545431/d4b148de-0324-4f43-9872-3e17e39115a4)
 
+![33-terminal](https://github.com/scidsg/project-info/assets/28545431/670f4db0-273e-40d8-949d-bb2cfa958138)
+
+
 🎉 Congratulations, you're now ready to install Hush Line on Digital Ocean!
