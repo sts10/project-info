@@ -48,6 +48,6 @@ http://jnaoywuss3dbgrmroeoqtsjymzf46in7lzh3bx6nwv3bzvwmhdvqytad.onion
 https://jnaoywuss3dbgrmroeoqtsjymzf46in7lzh3bx6nwv3bzvwmhdvqytad.onion.ourdemo.app
 ```
 
-![39-https-complete](https://github.com/scidsg/project-info/assets/28545431/0778ea02-4d90-4403-b33a-b7af084d822d)
+![39-https-complete-1](https://github.com/scidsg/project-info/assets/28545431/3710b96a-a630-47b2-a88e-07da40c5a4ba)
 
 🎉 Congratulations! You've successfully set up your own public anonymous tip line! 
