@@ -12,6 +12,7 @@
   - 4.2 billion people were affected by internet censorship in 2022 
 
 ### Whistleblowing
+- [Whistleblowing becomes law in the EU](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019L1937&from=EN)
 - [OSHA Whistleblower Statistics FY2017 – FY2022](https://www.whistleblowers.gov/factsheets_page/statistics/FY2022)
 - [SEC Awards Whistleblower More Than $18 Million](https://www.sec.gov/news/press-release/2023-161)
 - [Miceli, M. P., Near, J. P., & Dworkin, T. M. (2008). Whistle-blowing in organizations.](https://psycnet.apa.org/record/2008-04202-000)
