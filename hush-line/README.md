@@ -58,14 +58,17 @@ How much better, safer, and more informed could our schools, workplaces, and soc
 - Areas where censorship is prevalent, including Iran, China, Russia, and Belarus
 
 ## More Information
-Websites:
+
+**Websites**
+
 - [https://hushline.app](https://hushline.app/)
 - [https://try.hushline.app](https://try.hushline.app/)
 - [Git Repo](https://github.com/scidsg/hush-line)
 - [Donations](https://opencollective.com/scidsg/contribute/hush-line-support-55786)
 - [Figma](#)
 
-Created By:
+**Created By**
+
 [Science & Design](https://scidsg.org/)
 Contributor Locations: US, EU, APAC 
 
