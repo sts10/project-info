@@ -6,6 +6,15 @@ Hush Line is a free and open-source, self-hosted anonymous tip line that makes i
 
 ![0-cover](https://github.com/scidsg/hushline/assets/28545431/771b1e4d-2404-4d58-b395-7f4a4cfb6913)
 
+## Links
+
+- [Website](https://hushline.app/)
+- [Demo App](https://try.hushline.app/)
+- [Documentation](https://scidsg.github.io/hushline-docs/book/intro.html)
+- [Git Repo](https://github.com/scidsg/hush-line)
+- [Donations](https://opencollective.com/scidsg/contribute/hush-line-support-55786)
+- [Figma](https://www.figma.com/file/0IlWj8IwEgRg8vP1XEdjO2/Hush-Line?type=design&node-id=502%3A673&mode=design&t=Ni2HtEiQcrECy8CC-1)
+
 ## Why Hush Line?
 
 Other tools in this space include SecureDrop and GlobalLeaks, two robust, widely adopted whistleblowing platforms whose installation can be complicated for non-technical users. Some systems require an admin to configure it and special infrastructure for it to operate. The security posture of these platforms is increased because the chances are high that you'll receive malicious and dirty data when you allow people to send you files anonymously. Both require significant time and money to manage. It's not much easier for the person sending a message, either. They might have to create accounts, download new software, or manage PGP keys. It requires a significant commitment. Even tools like Signal or Protonmail require end-users to reveal information about themselves unless they can find disposable phone numbers and email addresses. Not a requirement everyone feels comfortable with.
@@ -56,16 +65,6 @@ How much better, safer, and more informed could our schools, workplaces, and soc
 
 - Global
 - Areas where censorship is prevalent, including Iran, China, Russia, and Belarus
-
-## More Information
-
-**Websites**
-
-- [https://hushline.app](https://hushline.app/)
-- [https://try.hushline.app](https://try.hushline.app/)
-- [Git Repo](https://github.com/scidsg/hush-line)
-- [Donations](https://opencollective.com/scidsg/contribute/hush-line-support-55786)
-- [Figma](https://www.figma.com/file/0IlWj8IwEgRg8vP1XEdjO2/Hush-Line?type=design&node-id=502%3A673&mode=design&t=Ni2HtEiQcrECy8CC-1)
 
 ## Grant History
 
