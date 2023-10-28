@@ -67,11 +67,6 @@ How much better, safer, and more informed could our schools, workplaces, and soc
 - [Donations](https://opencollective.com/scidsg/contribute/hush-line-support-55786)
 - [Figma](#)
 
-**Created By**
-
-[Science & Design](https://scidsg.org/)
-Contributor Locations: US, EU, APAC 
-
 ## Grant History
 
 | **Organization** | **Support Type** | **Vendor** | **Services** | **Status** | **Dates** |
