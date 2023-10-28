@@ -65,7 +65,7 @@ How much better, safer, and more informed could our schools, workplaces, and soc
 - [https://try.hushline.app](https://try.hushline.app/)
 - [Git Repo](https://github.com/scidsg/hush-line)
 - [Donations](https://opencollective.com/scidsg/contribute/hush-line-support-55786)
-- [Figma](#)
+- [Figma](https://www.figma.com/file/0IlWj8IwEgRg8vP1XEdjO2/Hush-Line?type=design&node-id=502%3A673&mode=design&t=Ni2HtEiQcrECy8CC-1)
 
 ## Grant History
 
