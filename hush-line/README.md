@@ -4,6 +4,9 @@
 
 Hush Line is a free and open-source, self-hosted anonymous tip line that makes it easy for organizations or individuals to install and use. It's intended for journalists and newsrooms to offer a public tip line; by educators and school administrators to provide students with a safe way to report potentially sensitive information, or employers, Board rooms, and C-suites for anonymous employee reporting. 
 
+![0-cover](https://github.com/scidsg/hushline/assets/28545431/771b1e4d-2404-4d58-b395-7f4a4cfb6913)
+
+
 Other tools in this space are SecureDrop and GlobalLeaks, two robust, widely adopted whistleblowing platforms whose installation process can be prohibitive without an admin to do it for you. Some systems even require special infrastructure to operate, and for a good reason, when you allow people to send you files anonymously, you'll receive both malicious and dirty data. Both require significant time and money to manage. 
 
 It's not much easier for the person sending a message, either. They must create accounts, download new software, and manage PGP keys. It requires a significant commitment to share some information—another prohibitively tricky requirement.
