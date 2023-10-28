@@ -8,6 +8,7 @@ Hush Line is a free and open-source, self-hosted anonymous tip line that makes i
 
 ## Links
 
+- [Overview Deck](https://docs.google.com/presentation/d/1XLdqN527118WWlS2Idof2wI3ZuxqDg7Vd2CDmxSFKk4/edit?usp=sharing)
 - [Website](https://hushline.app/)
 - [Demo App](https://try.hushline.app/)
 - [Documentation](https://scidsg.github.io/hushline-docs/book/intro.html)
