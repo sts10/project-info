@@ -1,5 +1,9 @@
 # Personal Server Unboxing Experience
 
+**Repo:** [alpha-PS-0.1](https://github.com/scidsg/hushline/tree/alpha-PS-0.1)<br>
+**Version:** 0.1a<br>
+**Stage:** Alpha
+
 👉 Please send feedback to https://feedback.hushline.app
 
 ![Screenshot 2023-11-01 at 3 26 41 PM](https://github.com/scidsg/project-info/assets/28545431/e4dbf73b-664a-4bfe-ba79-02763e8b450b)
