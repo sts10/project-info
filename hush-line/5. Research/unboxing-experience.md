@@ -1,4 +1,4 @@
-# Hush Line Home Server Prototype Device
+# Personal Server Unboxing Experience
 
 👉 Please send feedback to https://feedback.hushline.app
 
