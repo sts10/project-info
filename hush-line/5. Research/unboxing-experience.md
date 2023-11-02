@@ -6,7 +6,7 @@
 
 👉 Please send feedback to https://feedback.hushline.app
 
-![Screenshot 2023-11-01 at 3 26 41 PM](https://github.com/scidsg/project-info/assets/28545431/e4dbf73b-664a-4bfe-ba79-02763e8b450b)
+![IMG_7626](https://github.com/scidsg/project-info/assets/28545431/d9a7d629-f56f-4bd0-a74e-893c3f1a04c3)
 
 ## I. Unboxing
 
