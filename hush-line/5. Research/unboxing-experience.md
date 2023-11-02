@@ -6,7 +6,7 @@
 
 👉 Please send feedback to https://feedback.hushline.app
 
-![IMG_7626](https://github.com/scidsg/project-info/assets/28545431/d9a7d629-f56f-4bd0-a74e-893c3f1a04c3)
+![IMG_7626](https://github.com/scidsg/project-info/assets/28545431/4a0f1c70-50d7-45c0-83b7-4c06047facca)
 
 ## I. Unboxing
 
