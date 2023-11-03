@@ -1,5 +1,22 @@
 # Project Info
 
+## Team
+
+Are we missing any roles? Edit this document!
+
+| Role          | Person        | Keybase Contact    |
+|---------------|---------------|--------------------|
+| Lead          | Glenn         | @glennsorrentino   |
+| Lead Engineer | _Glenn_       | _@glennsorrentino_   |
+| Engineering   | Sam           | @schlink           |
+| Research      | Abbey         | @bodicea           |
+| Design        | Glenn         | @glennsorrentino   |
+| Social        | _Glenn_       | _@glennsorrentino_   |
+| Localization  |               |                    |
+| Documentation | _Glenn_<br>Sam  | _@glennsorrentino_<br>@schlink               |
+
+_Italics indicate a temporarily filled role._
+
 ## Problems We're Solving
 
 ### Censorship
