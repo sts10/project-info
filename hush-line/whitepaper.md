@@ -442,7 +442,7 @@ The risks from centralizing any service includes becoming a target whose attack 
 
 ## 12. Hush Line Contributors
 - Glenn Sorrentino, Design, Engineering [^59]
-- Sam Schlink, Documentation, Engineering [^60]
+- Sam Schlinkert, Documentation, Engineering [^60]
 - Saptak Sengupta, Accessibility, Engineering [^61]
 - Abbey Ripstra, Research [^62]
 - Dr. Ashley Di Battista, Research [^63]
