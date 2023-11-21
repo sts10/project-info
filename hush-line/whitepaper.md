@@ -43,7 +43,7 @@ In schools, students have entirely different expectations of trust and safety. A
 - As a source, I need a way to access someone's Hush Line, even if the Tor Network and the original URL are blocked in my country, so I can share information even in the most oppressive environments.
 
 ## 3. System Requirements
-Hush Line is an open-source application designed for Debian-based Linux systems [^14]. The system must have a 64-bit processor to install the new cryptography packages. Other hardware requirements are minimal due to the simplicity of the app. Hush Line saves encrypted messages to a local text file for individuals who might want to avoid setting up email delivery. Ensuring the device storage is >16 GB for long-term usage will help safeguard against capacity issues. Having >265 MB of RAM [^15] will make system-wide performance, including updates, reboots, startup, and other processes run smoothly.
+Hush Line is an open-source application designed for Debian-based Linux systems [^14]. The system must have a 64-bit processor to install the new cryptography packages. Other hardware requirements are minimal due to the simplicity of the app. Hush Line saves encrypted messages to a local text file for individuals who might want to avoid setting up email delivery. Ensuring the device storage is >16 GB for long-term usage will help safeguard against capacity issues. Having >265 MB of RAM will make system-wide performance, including updates, reboots, startup, and other processes run smoothly [^15].
 
 ## 4. Hush Line: The People's Tip Line
 ### 4.1. Goals
