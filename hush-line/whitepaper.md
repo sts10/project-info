@@ -3,7 +3,7 @@
 # Hush Line - Enhancing Tip Line Usability Through Simplicity
 
 ## Contributors
-Glenn Sorrentino | Sam Schlink | Saptak Sengupta | Dr. Ashley Di Battista |
+Glenn Sorrentino | Sam Schlinkert | Saptak Sengupta | Dr. Ashley Di Battista |
 Micah Lee | Grant B. | Simon S. | Em | Dr. Florian Idelberger | Chirayu Desai |
 Scott Jenson | Ura Creative | Stef Daehler | Micahel (aeon) | Martin S.
 
