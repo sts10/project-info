@@ -199,7 +199,7 @@ WantedBy=multi-user.target
 EOL
 ```
 
-## 4.4.4. Logging 
+### 4.4.4. Logging 
 Hush Line does not log the IP address or location of end-users. We began with work from Guardian Project that uses custom formatting so IPs are saved as 0.0.0.0 [^35][^36]. We took it a step further and removed country-code logging, too [^37]. We include a custom nginx.conf file:
 
 ```
@@ -271,7 +271,7 @@ Below is a snippet of the logs from our demo application `try.hushline.app` afte
 0.0.0.0 - - [21/Nov/2023:16:31:46 +0000] "GET /static/style.css HTTP/1.1" 304 0 "-"
 ```
 
-# 4.4.5. Censorship Resistance with Sauteed Onions
+### 4.4.5. Censorship Resistance with Sauteed Onions
 When deploying to a public website, Hush Line using a new onion binding technique called sauteed onions to help increase it's resistance to censorship [^38]. The technique, created by Paul Syverson, Rasmus Dahlberg, Linus Nordberg, and Matthew Finkel, binds an onion address to a public domain name using TLS certificates. Using a domain's DNS settings, creating a CNAME record for `onion.acme.com` allows for a HTTPS certificate to issue, making the onion address discoverable in CT logs.
 
 ## 5. Personal Server
