@@ -272,10 +272,10 @@ Below is a snippet of the logs from our demo application `try.hushline.app` afte
 ```
 
 ### 4.4.5. Censorship Resistance with Sauteed Onions
-When deploying to a public website, Hush Line using a new onion binding technique called sauteed onions to help increase it's resistance to censorship [^38]. The technique, created by Paul Syverson, Rasmus Dahlberg, Linus Nordberg, and Matthew Finkel, binds an onion address to a public domain name using TLS certificates. Using a domain's DNS settings, creating a CNAME record for `onion.acme.com` allows for a HTTPS certificate to issue, making the onion address discoverable in CT logs.
+When deploying to a public website, Hush Line uses a new onion binding technique called sauteed onions to help increase its resistance to censorship [^38]. The method, created by Paul Syverson, Rasmus Dahlberg, Linus Nordberg, and Matthew Finkel, binds an onion address to a public domain name using TLS certificates. Using a domain's DNS settings, creating a CNAME record for `onion.acme.com` allows an HTTPS certificate to be issued, making the onion address discoverable in CT logs.
 
 ## 5. Personal Server
-The Hush Line Personal Server is a physical Tor-only tip line device. Setup is completed outside the terminal, requiring no code, manually editing files or logging in to a server [^39].
+The Hush Line Personal Server is a physical Tor-only tip line device. Setup is completed outside the terminal, requiring no code, manually editing files, or logging in to a server [^39].
 
 <img src="https://user-images.githubusercontent.com/28545431/281176815-9af0cfb8-8ca2-49ed-b7fc-d14b7c32ab5c.gif">
 
@@ -385,7 +385,7 @@ if __name__ == '__main__':
 ```
 
 ## 6. Auditing Hush Line
-Before recommending Hush Line be adopted for use cases from journalism, education, and business, we wanted to have independent audits of key areas of the application. All of work below was sponsored by Open Tech Fund, through their Secure Usability and Accessibility, and Red Team labs [^43][^44][^45].
+Before recommending Hush Line be adopted for use cases from journalism, education, and business, we wanted to have independent audits of key areas of the application. All of the work below was sponsored by Open Tech Fund through their Secure Usability and Accessibility and Red Team labs [^43][^44][^45].
 
 ### 6.1. Accessibility
 In Q3-2023, A11y Lab conducted an accessibility audit of Hush Line's website and web application according to the international standard Web Content Accessibility Guidelines 2.1 (WCAG 2.1) which is divided into four principles (Perceivable, Operable, Understandable and Robust), thirteen guidelines that contains requirements (success criteria) and three levels of conformance A, AA and AAA [^46][^47]. The findings included:
