@@ -388,7 +388,7 @@ if __name__ == '__main__':
 Before recommending Hush Line be adopted for use cases from journalism, education, and business, we wanted to have independent audits of key areas of the application. All of the work below was sponsored by Open Tech Fund through their Secure Usability and Accessibility and Red Team labs [^43][^44][^45].
 
 ### 6.1. Accessibility
-In Q3-2023, A11y Lab conducted an accessibility audit of Hush Line's website and web application according to the international standard Web Content Accessibility Guidelines 2.1 (WCAG 2.1) which is divided into four principles (Perceivable, Operable, Understandable and Robust), thirteen guidelines that contains requirements (success criteria) and three levels of conformance A, AA and AAA [^46][^47]. The findings included:
+In Q3-2023, A11y Lab conducted an accessibility audit of Hush Line's website and web application according to the international standard Web Content Accessibility Guidelines 2.1 (WCAG 2.1), which is divided into four principles (Perceivable, Operable, Understandable, and Robust), thirteen guidelines that contain requirements (success criteria) and three levels of conformance A, AA and AAA [^46][^47]. The findings included:
 
 - target size,
 - bypass blocks,
@@ -407,19 +407,19 @@ Soon after receiving the report, all of the findings were addressed [^48].
 In Q4-2023, Subgraph conducted a security audit of Hush Line's core app and the Personal Server device [^49].
 
 ## 7. External Collaboration
-Similar to the audits above, we worked with OTF's SUA Lab and engaged with Plaintext and Ura Creative to improve the visual design and content of our homepage at hushline.app. 
+Similar to the audits above, we worked with OTF's SUA Lab and engaged with Plaintext and Ura Creative to improve our homepage's visual design and content at hushline.app. 
 
 ### 7.1. Content Design
-In Q2-2023, we worked with Plaintext Design to help us think through how we're commuinicating using our homepage [^50][^51]. Key takeaways was to bring greater density to the interface and more concrete language inthe heading of our intro section. 
+In Q2-2023, we worked with Plaintext Design to help us think through how we communicate using our homepage [^50][^51]. The key takeaways were to bring greater density to the interface and more concrete language in the heading of our intro section. 
 
 ### 7.2. Visual Design [IN-PROGRESS]
 In Q4-2023, we worked with Ura Creative to assist in developing Hush Line's visual identity, including illustrations, iconography, identity, and marketing assets [^52]. 
 
 ## 8. Documentation
-Hush Line aims to have simple, straightforward documentation written for the non-technical user [^53]. 
+Hush Line aims to write simple, straightforward documentation for non-technical users [^53]. 
 
 ## 9. Support Model
-While Hush Line is free and open-source software, we recognize the need for financial and professional support for our contributors. We've set up mutliple ways for support, inlcuding:
+While Hush Line is free and open-source software, we recognize the need for financial support for our contributors and professional support for the product. We've set up multiple ways for support, including:
 - GitHub Sponsors
 - Open Collective
 - Community Contributor Guidelines
