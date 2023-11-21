@@ -401,7 +401,7 @@ In Q3-2023, A11y Lab conducted an accessibility audit of Hush Line's website and
 - focus visibility, and
 - page titles.
 
-Soon after receiving the report, all of the findings were addressed [^48].
+Soon after receiving the report, all findings were addressed [^48].
 
 ### 6.2. Security [IN-PROGRESS]
 In Q4-2023, Subgraph conducted a security audit of Hush Line's core app and the Personal Server device [^49].
@@ -428,14 +428,14 @@ We aim for a scalable, repeatable framework for which all products can follow [^
 
 ## 10. Challenges
 ### 10.1. Financial Support
-The most significant challenges Hush Line has experienced is funding. The product is entirely self-funded and volunteer-driven, and finding a sustainable support will be a long-term goal for the team.
+The most significant challenge Hush Line has experienced is funding. The product is entirely self-funded and volunteer-driven, and finding sustainable support will be a long-term goal for the team.
 
 ## 11. Future Work
 ### 11.1. Personal Server
-In Q1 of 2024, the Personal Server will launch with a limted production run. The goal of the launch is to raise capital for future product development. 
+In Q1 of 2024, the Personal Server will launch with a limited production run. The goal of the launch is to raise capital for future product development. 
 
 ### 11.2 Hosted Service
-Hush Line is currently completely decentralized. Science & Design operates no infrastructure supporting the operation of current instances, and as such there isn't a single way to block them all. While the security properties of our initial approach will always be an option moving forward, we're considering other ways to make Hush Line available to more people who may need it. One approach could be a centralized service, similar to any SaaS product like Proton, Facebook, or Google, where a user clicks "New Account" or something similar to sign up and use the app [^56][^57][^58]. 
+Hush Line is currently completely decentralized. Science & Design operates no infrastructure supporting the operation of current instances, so there isn't a single way to block them all. While the security properties of our initial approach will always be an option moving forward, we're considering other ways to make Hush Line available to more people who may need it. One approach could be a centralized service, similar to any SaaS product like Proton, Facebook, or Google, where a user clicks "New Account" or something similar to sign up and use the app [^56][^57][^58].
 
 #### 11.2.1 Risks
 The risks from centralizing any service includes becoming a target whose attack could disrupt a large set of individual users. Whether an SMTP or account-based service, we would need to carefully plan the most resilient architecture to protect our customers.
