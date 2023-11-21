@@ -437,7 +437,7 @@ Hush Line is currently completely decentralized. Science & Design operates no in
 #### 11.2.1 Risks
 The risks from centralizing any service includes becoming a target whose attack could disrupt a large set of individual users. Whether an SMTP or account-based service, we would need to carefully plan the most resilient architecture to protect our customers.
 
-# 12. Hush Line Contributors
+## 12. Hush Line Contributors
 Glenn Sorrentino | Sam Schlink | Saptak Sengupta | Dr. Ashley Di Battista |
 Micah Lee | Grant B. | Simon S. | Em | Dr. Florian Idelberger | Chirayu Desai |
 Scott Jenson | Ura Creative | Stef Daehler | Micahel (aeon) | Martin S.
