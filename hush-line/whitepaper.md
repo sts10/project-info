@@ -73,9 +73,9 @@ Hush Line's strong security comes from its simplicity. Since a sender is restric
 <img src="https://raw.githubusercontent.com/scidsg/project-info/main/hush-line/2.%20Design/arch.png">
 
 ### 4.4. Application
-The application is written in Python and uses core libraries, including pgpy and smtplib [18, 19]. There are three routes: 1. `/`, which displays the tip line owner's information extracted from their public PGP key, 2. `/info`, which provides end-users with helpful information about tip line usage, and 3. `/send_message,` which encrypts, then emails the message to the owner [20].
+The application is written in Python and uses core libraries, including pgpy and smtplib [18, 19], and Flask. There are three Flask routes: 1. `/`, which displays the tip line owner's information extracted from their public PGP key, 2. `/info`, which provides end-users with helpful information about tip line usage, and 3. `/send_message,` which encrypts, then emails the message to the owner [20].
 
-```    
+```python
 from flask import Flask, render_template, request, jsonify, redirect, url_for
 import os
 import pgpy
@@ -291,7 +291,7 @@ We designed a custom-designed, security-centric case that only exposes the devic
 ### 5.4. Setup
 While the core Hush Line app is identical to the software on the Personal Server, the physical device affords a more consumer-like setup process. Upon first boot, when an ethernet cable is connected, a QR code displays on the e-Paper screen, linking to a locally hosted web form to complete setup. The user will complete the installation by entering the information needed in a web form [41]. 
 
-```
+```python
 from flask import Flask, request, render_template, redirect, url_for
 import json
 import os
