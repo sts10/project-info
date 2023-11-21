@@ -409,7 +409,7 @@ In Q4-2023, Subgraph conducted a security audit of Hush Line's core app and the 
 ## 7. External Collaboration
 Similar to the audits above, we worked with OTF's SUA Lab and engaged with Plaintext and Ura Creative to improve the visual design and content of our homepage at hushline.app. 
 
-## 7.1. Content Design
+### 7.1. Content Design
 In Q2-2023, we worked with Plaintext Design to help us think through how we're commuinicating using our homepage [^50][^51]. Key takeaways was to bring greater density to the interface and more concrete language inthe heading of our intro section. 
 
 ### 7.2. Visual Design [IN-PROGRESS]
