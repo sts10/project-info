@@ -438,25 +438,25 @@ Hush Line is currently completely decentralized. Science & Design operates no in
 The risks from centralizing any service includes becoming a target whose attack could disrupt a large set of individual users. Whether an SMTP or account-based service, we would need to carefully plan the most resilient architecture to protect our customers.
 
 ## 12. Hush Line Contributors
-- Glenn Sorrentino, Design, Engineering
-- Sam Schlink, Documentation, Engineering
-- Saptak Sengupta, Accessibility, Engineering
-- Abbey Ripstra, Research
-- Dr. Ashley Di Battista, Research
-- Micah Lee, Engineering
-- Grant B., Engineering
-- Simon S., Engineering
-- Em, Privacy Engineering
-- Dr. Florian Idelberger, Engineering
-- Chirayu Desai, Privacy Engineering
-- Scott Jenson, Content Design
-- Ura Creative, Visual Design
-- Stef Daehler, Subject Matter Expert, Education
-- Micahel (aeon), Subject Matter Expert, Security
-- Martin S., Subject Matter Expert, Journalism
+- Glenn Sorrentino, Design, Engineering [^58]
+- Sam Schlink, Documentation, Engineering [^59]
+- Saptak Sengupta, Accessibility, Engineering [^60]
+- Abbey Ripstra, Research [^61]
+- Dr. Ashley Di Battista, Research [^62]
+- Micah Lee, Engineering [^63]
+- Grant B., Engineering [^64]
+- Simon S., Engineering [^65] 
+- Em, Privacy Engineering [^66] 
+- Dr. Florian Idelberger, Engineering [^67]
+- Chirayu Desai, Privacy Engineering [^68]
+- Scott Jenson, Content Design [^69]
+- Ura Creative, Visual Design [^51]
+- Stef Daehler, Subject Matter Expert, Education [^70]
+- Micahel (aeon), Subject Matter Expert, Security [^71]
+- Dr. Martin Shelton, Subject Matter Expert, Journalism [^72]
 
 ## References
-[^1]: https://hushline.app
+[^1]: https://hushline.app 
 [^2]: https://github.com/scidsg/hushline
 [^3]: https://github.com/scidsg/hushline/blob/main/LICENSE
 [^4]: https://securedrop.org
@@ -513,3 +513,19 @@ The risks from centralizing any service includes becoming a target whose attack 
 [^55]: https://proton.me/
 [^56]: https://www.facebook.com/
 [^57]: https://www.google.com/
+[^58]: https://glennsorrentino.com/
+[^59]: https://github.com/sts10
+[^60]: https://saptaks.website/
+[^61]: https://www.linkedin.com/in/abigailripstra/
+[^62]: https://www.linkedin.com/in/ashley-di-battista-phd-1891a1253/
+[^63]: https://micahflee.com/
+[^64]: https://github.com/GrantBirki
+[^65]: https://simonwoerpel.github.io/
+[^66]: https://infosec.exchange/@Em0nM4stodon/
+[^67]: https://www.linkedin.com/in/florianidelberger/
+[^68]: https://www.linkedin.com/in/chirayu-desai-044788131/
+[^69]: https://www.linkedin.com/in/scottjenson/
+[^70]: https://www.linkedin.com/in/stefaniedaehler/
+[^71]: https://tldr.nettime.org/@eaon
+[^72]: https://freedom.press/people/martin-shelton/
+
